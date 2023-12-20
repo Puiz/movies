@@ -1,993 +1,973 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2019/11/18/gVQF7y.jpg" group-title="หนัง",The Accountant (2016) : อัจฉริยะคนบัญชีเพชฌฆาต
-
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2019/11/18/gVQF7y.jpg" group-title="4K", The Accountant (2016) : อัจฉริยะคนบัญชีเพชฌฆาต
 http://b1.inwstream.com:1935/FW_Blu-Ray/The_Accountant_2016_4K/The_Accountant_2016_4K_2160p_DTS_HD_HDR.mkv
 
-#EXTINF:-1 tvg-logo="https://lzd-img-global.slatic.net/g/p/7d1824bc72828fba7c1986c021d31de2.jpg_720x720q80.jpg" group-title="หนัง",Venom เวน่อม (2018)
+#EXTINF:-1 tvg-logo="https://lzd-img-global.slatic.net/g/p/7d1824bc72828fba7c1986c021d31de2.jpg_720x720q80.jpg" group-title="4K", Venom เวน่อม (2018)
+http:/b1.inwstream.com:1936/FW_Blu-Ray/Venom_2018_4K/Venom_2018_4K_2160p_ATMOS_HDR.mkv?.m3u8
 
-https://b1.inwstream.com:1936/FW_Blu-Ray/Venom_2018_4K/Venom_2018_4K_2160p_ATMOS_HDR.mkv?.m3u8
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/2017021708563191LY0dgOODL._SL1500_.jpg" group-title="4K", Lucy ลูซี่ สวยพิฆาต (2014) 4K Ultra HD
+http:/b1.inwstream.com:1936/FW_Blu-Ray/Lucy-2014-4K/Lucy-2014-TH-EN-2160p-4K.mp4?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/2017021708563191LY0dgOODL._SL1500_.jpg" group-title="หนัง",Lucy ลูซี่ สวยพิฆาต (2014) 4K Ultra HD
-
-https://b1.inwstream.com:1936/FW_Blu-Ray/Lucy-2014-4K/Lucy-2014-TH-EN-2160p-4K.mp4?.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20231010093413mission-impossible---dead-reckoning-part-one-647a6c6f82a39.jpeg" group-title="หนัง",Mission: Impossible - Dead Reckoning Part One มิชชั่น:อิมพอสซิเบิ้ล ล่าพิกัดมรณะ ตอนที่หนึ่ง (2023) 4K HDR
-
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20231010093413mission-impossible---dead-reckoning-part-one-647a6c6f82a39.jpeg" Mission: Impossible - Dead Reckoning Part One มิชชั่น:อิมพอสซิเบิ้ล ล่าพิกัดมรณะ ตอนที่หนึ่ง (2023) 4K HDR
+#EXTVLCOPT:http-user-agent=PrimeTimeLauncher/1.0.2 (Linux;Android 10) ExoPlayerLib/1.5.11
 https://b1.inwstream.com:1936/FW_UHD/Mission_Impossible_Dead_Reckoning_Part_One_2023_4K/Mission_Impossible_Dead_Reckoning_Part_One_2023_4K_2160p_ATMOS_HDR.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20231006205434pFue9TLZVdXjGiZ8cOpDjllhbKk.jpg" group-title="หนัง",Haunted Mansion บ้านชวนเฮี้ยนผีชวนฮา (2023)
-
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20231006205434pFue9TLZVdXjGiZ8cOpDjllhbKk.jpg" group-title="4K", Haunted Mansion บ้านชวนเฮี้ยนผีชวนฮา (2023)
 http://b1.inwstream.com:1935/FW_UHD/Haunted_Mansion_2023_4K/Haunted_Mansion_2023_4K_2160p_HDR.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="http://postto.me/21a/1fl.jpg" group-title="หนัง",Gran Turismo : GT แกร่งทะลุไมล์ (2023) 
-
+#EXTINF:-1 tvg-logo="http://postto.me/21a/1fl.jpg" group-title="4K", Gran Turismo : GT แกร่งทะลุไมล์ (2023) 
 http://b1.inwstream.com:1935/FW_UHD/Gran_Turismo_2023_4K/Gran_Turismo_2023_4K_2160p_ATMOS_HDR.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20200422152956Now%20You%20See%20Me%20%E0%B8%AD%E0%B8%B2%E0%B8%8A%E0%B8%8D%E0%B8%B2%E0%B8%81%E0%B8%A5%E0%B8%9B%E0%B8%A5%E0%B9%89%E0%B8%99%E0%B9%82%E0%B8%A5%E0%B8%81%20(2013).jpg" group-title="หนัง",Now You See Me อาชญากลปล้นโลก (2013)
-
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20200422152956Now%20You%20See%20Me%20%E0%B8%AD%E0%B8%B2%E0%B8%8A%E0%B8%8D%E0%B8%B2%E0%B8%81%E0%B8%A5%E0%B8%9B%E0%B8%A5%E0%B9%89%E0%B8%99%E0%B9%82%E0%B8%A5%E0%B8%81%20(2013).jpg" group-title="4K", Now You See Me อาชญากลปล้นโลก (2013)
 http://b1.inwstream.com:1935/FW_Blu-Ray/Now_You_See_Me_2013_4K/Now_You_See_Me_2013_4K_2160p_ATMOS_HDR.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20200426153803Now%20You%20See%20Me%202%20%E0%B8%AD%E0%B8%B2%E0%B8%8A%E0%B8%8D%E0%B8%B2%E0%B8%81%E0%B8%A5%E0%B8%9B%E0%B8%A5%E0%B9%89%E0%B8%99%E0%B9%82%E0%B8%A5%E0%B8%81%202%20(2016).jpg" group-title="หนัง",Now You See Me 2 อาชญากลปล้นโลก 2 (2016)
-
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20200426153803Now%20You%20See%20Me%202%20%E0%B8%AD%E0%B8%B2%E0%B8%8A%E0%B8%8D%E0%B8%B2%E0%B8%81%E0%B8%A5%E0%B8%9B%E0%B8%A5%E0%B9%89%E0%B8%99%E0%B9%82%E0%B8%A5%E0%B8%81%202%20(2016).jpg" group-title="4K", Now You See Me 2 อาชญากลปล้นโลก 2 (2016)
 http://b1.inwstream.com:1935/FW_Blu-Ray/Now_You_See_Me_2_2016_4K/Now_You_See_Me_2_2016_4K_2160p_ATMOS_HDR.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20200319115421The%20Expendables%201%20(2010)%20%E0%B9%82%E0%B8%84%E0%B8%A3%E0%B8%95%E0%B8%84%E0%B8%99%E0%B8%97%E0%B8%B5%E0%B8%A1%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%AC.jpg" group-title="หนัง",The Expendables 1 (2010) โครตคนทีมมหากาฬ
-
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20200319115421The%20Expendables%201%20(2010)%20%E0%B9%82%E0%B8%84%E0%B8%A3%E0%B8%95%E0%B8%84%E0%B8%99%E0%B8%97%E0%B8%B5%E0%B8%A1%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%AC.jpg" group-title="4K", The Expendables 1 (2010) โครตคนทีมมหากาฬ
 http://b1.inwstream.com:1935/FW_Blu-Ray/The_Expendables_2010_4K/The_Expendables_2010_4K_2160p_HDR.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20200319114339The%20Expendables%202%20(2012)%20%E0%B9%82%E0%B8%84%E0%B8%95%E0%B8%A3%E0%B8%84%E0%B8%99%20%E0%B8%97%E0%B8%B5%E0%B8%A1%E0%B9%80%E0%B8%AD%E0%B9%87%E0%B8%81%E0%B8%8B%E0%B9%8C%E0%B9%80%E0%B8%9E%E0%B8%99%E0%B9%80%E0%B8%94%E0%B9%80%E0%B8%9A%E0%B8%B4%E0%B9%89%E0%B8%A5.jpg" group-title="หนัง",The Expendables 2 (2012) โคตรคน ทีมเอ็กซ์เพนเดเบิ้ล
-
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20200319114339The%20Expendables%202%20(2012)%20%E0%B9%82%E0%B8%84%E0%B8%95%E0%B8%A3%E0%B8%84%E0%B8%99%20%E0%B8%97%E0%B8%B5%E0%B8%A1%E0%B9%80%E0%B8%AD%E0%B9%87%E0%B8%81%E0%B8%8B%E0%B9%8C%E0%B9%80%E0%B8%9E%E0%B8%99%E0%B9%80%E0%B8%94%E0%B9%80%E0%B8%9A%E0%B8%B4%E0%B9%89%E0%B8%A5.jpg" group-title="4K", The Expendables 2 (2012) โคตรคน ทีมเอ็กซ์เพนเดเบิ้ล
 http://b1.inwstream.com:1935/FW_Blu-Ray/The_Expendables_2_2012_4K/The_Expendables_2_2012_4K_2160p_ATMOS_HDR.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20170929123419the-mummy-58eb9a461a81b.jpg" group-title="หนัง", The Mummy เดอะ มัมมี่ (2017) 4K Ultra HD
-
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20170929123419the-mummy-58eb9a461a81b.jpg" group-title="4K",  The Mummy เดอะ มัมมี่ (2017) 4K Ultra HD
 http://b1.inwstream.com:1935/FW_Blu-Ray/The_Mummy_2017_4K/The-Mummy-2017-4K-2160p.mp4?.m3u8
 
-#EXTINF:-1 tvg-logo="https://s359.kapook.com/pagebuilder/e5548302-1460-4ddd-bdf1-c60b97464dfb.jpg",Blue Beetle บลู บีเทิล (2023)
-
+#EXTINF:-1 tvg-logo="https://s359.kapook.com/pagebuilder/e5548302-1460-4ddd-bdf1-c60b97464dfb.jpg" group-title="4K",,Blue Beetle บลู บีเทิล (2023)
 http://b1.inwstream.com:1935/FW_UHD/Blue_Beetle_2023_4K/Blue_Beetle_2023_4K_2160p_HDR_T.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20230808110218spider-man-across-the-spider-verse-64642f7775a4c.jpg",Spider-Man: Across the Spider-Verse สไปเดอร์-แมน: ผงาดข้ามจักรวาลแมงมุม (2023) 4K Ultra HD
-
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20230808110218spider-man-across-the-spider-verse-64642f7775a4c.jpg" group-title="4K",,Spider-Man: Across the Spider-Verse สไปเดอร์-แมน: ผงาดข้ามจักรวาลแมงมุม (2023) 4K Ultra HD
 http://b1.inwstream.com:1935/FW_UHD/Spider_Man_Across_the_Spider_Verse_2023_4K/Spider_Man_Across_the_Spider_Verse_2023_4K_2160p_ATMOS_HDR.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="http://postto.me/219/38a.jpg",John Wick: Chapter 4 
-
+#EXTINF:-1 tvg-logo="http://postto.me/219/38a.jpg" group-title="4K",,John Wick: Chapter 4 
 http://b1.inwstream.com:1935/FW_UHD/John_Wick_Chapter_4_2023_4K/John_Wick_Chapter_4_2023_4K_2160p_ATMOS_HDR_T.mkv?.m3u8
 
 #EXTINF:-1 tvg-logo="https://images4.imagebam.com/8a/21/a3/MENB1CJ_o.png",The Flash (2023) 4K : เดอะ แฟลช
-
 http://b1.inwstream.com:1935/FW_UHD/The_Flash_2023_4K/The_Flash_2023_4K_2160p_ATMOS_HDR.mkv?.m3u8
 
 #EXTINF:-1 tvg-logo="https://images4.imagebam.com/68/49/90/MELQGH7_o.png",The Pope s Exorcist (2023) 4K  : โป๊บปราบผี
-
 http://b1.inwstream.com:1935/FW_UHD/The_Pope_s_Exorcist_2023_4K/The_Pope_s_Exorcist_2023_4K_2160p_DTS_HD_SDR.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20171108072006spider-man-homecoming-593aec744d6b7.jpg",Spider-Man: Homecoming สไปเดอร์แมน โฮมคัมมิ่ง (2017) 4K HDR ATMOS
-
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20171108072006spider-man-homecoming-593aec744d6b7.jpg" group-title="4K",,Spider-Man: Homecoming สไปเดอร์แมน โฮมคัมมิ่ง (2017) 4K HDR ATMOS
 http://b1.inwstream.com:1935/FW_Blu-Ray/Spider_Man_Homecoming_2017_4K/Spider_Man_Homecoming_2017_4K_2160p_ATMOS_HDR.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20190922190146spider-man-far-from-home-5d6ecfdf53e1d.jpg",Spider-Man: Far from Home สไปเดอร์-แมน ฟาร์ ฟรอม โฮม (2019) 4K HDR ATMOS
-
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20190922190146spider-man-far-from-home-5d6ecfdf53e1d.jpg" group-title="4K",,Spider-Man: Far from Home สไปเดอร์-แมน ฟาร์ ฟรอม โฮม (2019) 4K HDR ATMOS
 http://b1.inwstream.com:1935/FW_Blu-Ray/Spider_Man_Far_from_Home_2019_4K/Spider_Man_Far_from_Home_2019_4K_2160p_ATMOS_HDR.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220314093509spider-man-no-way-home-61a3f7e566e28.jpg",Spider-Man: No Way Home สไปเดอร์แมน: โน เวย์ โฮม (2021) 4K Ultra HD THEATRICAL & EXTENDED VERSION
-
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220314093509spider-man-no-way-home-61a3f7e566e28.jpg" group-title="4K",,Spider-Man: No Way Home สไปเดอร์แมน: โน เวย์ โฮม (2021) 4K Ultra HD THEATRICAL & EXTENDED VERSION
 http://b1.inwstream.com:1935/FW_Blu-Ray/Spider_Man_No_Way_Home_2021_4K/Spider_Man_No_Way_Home_2021_4K_2160p_ATMOS_HDR.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/201409072330021.jpg",The Amazing Spider-Man ดิ อะเมซิ่ง สไปเดอร์แมน (2012)
-
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/201409072330021.jpg" group-title="4K",,The Amazing Spider-Man ดิ อะเมซิ่ง สไปเดอร์แมน (2012)
+#EXTVLCOPT:http-user-agent=PrimeTimeLauncher/1.0.2 (Linux;Android 10) ExoPlayerLib/1.5.11
 https://b1.inwstream.com:1936/FW_Blu-Ray/The_Amazing_Spider_Man_2012_4K/The_Amazing_Spider_Man_2012_4K_2160p_ATMOS_HDR.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20200428155713The%20Amazing%20Spider-Man%202%20%E0%B8%94%E0%B8%B4%20%E0%B8%AD%E0%B8%B0%E0%B9%80%E0%B8%A1%E0%B8%8B%E0%B8%B4%E0%B9%88%E0%B8%87%20%E0%B8%AA%E0%B9%84%E0%B8%9B%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%A3%E0%B9%8C-%E0%B9%81%E0%B8%A1%E0%B8%99%202%20%E0%B8%9C%E0%B8%87%E0%B8%B2%E0%B8%94%E0%B8%AD%E0%B8%AA%E0%B8%B9%E0%B8%A3%E0%B8%81%E0%B8%B2%E0%B8%A2%E0%B8%AA%E0%B8%B2%E0%B8%A2%E0%B8%9F%E0%B9%89%E0%B8%B2%20(2014).jpg",The Amazing Spider-Man 2 ดิ อะเมซิ่ง สไปเดอร์-แมน 2: ผงาดอสูรกายสายฟ้า (2014) 
-
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20200428155713The%20Amazing%20Spider-Man%202%20%E0%B8%94%E0%B8%B4%20%E0%B8%AD%E0%B8%B0%E0%B9%80%E0%B8%A1%E0%B8%8B%E0%B8%B4%E0%B9%88%E0%B8%87%20%E0%B8%AA%E0%B9%84%E0%B8%9B%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%A3%E0%B9%8C-%E0%B9%81%E0%B8%A1%E0%B8%99%202%20%E0%B8%9C%E0%B8%87%E0%B8%B2%E0%B8%94%E0%B8%AD%E0%B8%AA%E0%B8%B9%E0%B8%A3%E0%B8%81%E0%B8%B2%E0%B8%A2%E0%B8%AA%E0%B8%B2%E0%B8%A2%E0%B8%9F%E0%B9%89%E0%B8%B2%20(2014).jpg" group-title="4K",,The Amazing Spider-Man 2 ดิ อะเมซิ่ง สไปเดอร์-แมน 2: ผงาดอสูรกายสายฟ้า (2014) 
+#EXTVLCOPT:http-user-agent=PrimeTimeLauncher/1.0.2 (Linux;Android 10) ExoPlayerLib/1.5.11
 https://b1.inwstream.com:1936/FW_Blu-Ray/The_Amazing_Spider_Man_2_2014_4K/The_Amazing_Spider_Man_2_2014_4K_2160p_ATMOS_HDR.mkv?.m3u8
 
 #EXTINF:-1 tvg-logo="",รอแก้ Spider Man 3: ไอ้แมงมุม (2007)
+#EXTVLCOPT:http-user-agent=PrimeTimeLauncher/1.0.2 (Linux;Android 10) ExoPlayerLib/1.5.11
 
 
-
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20200330214132Spider%20Man%202%20%E0%B9%84%E0%B8%AD%E0%B9%89%E0%B9%81%E0%B8%A1%E0%B8%87%E0%B8%A1%E0%B8%B8%E0%B8%A1%20(2004).jpg",Spider Man 2: ไอ้แมงมุม (2004)
-
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20200330214132Spider%20Man%202%20%E0%B9%84%E0%B8%AD%E0%B9%89%E0%B9%81%E0%B8%A1%E0%B8%87%E0%B8%A1%E0%B8%B8%E0%B8%A1%20(2004).jpg" group-title="4K",,Spider Man 2: ไอ้แมงมุม (2004)
 http://b1.inwstream.com:1935/FW_Blu-Ray/Spider_Man_2_2004_4K/Spider_Man_2_2004_4K_2160p_ATMOS_HDR.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20200330214708Spider%20Man%201%20%E0%B9%84%E0%B8%AD%E0%B9%89%E0%B9%81%E0%B8%A1%E0%B8%87%E0%B8%A1%E0%B8%B8%E0%B8%A1%20(2002).jpg",Spider Man 1: ไอ้แมงมุม (2002)
-
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20200330214708Spider%20Man%201%20%E0%B9%84%E0%B8%AD%E0%B9%89%E0%B9%81%E0%B8%A1%E0%B8%87%E0%B8%A1%E0%B8%B8%E0%B8%A1%20(2002).jpg" group-title="4K",,Spider Man 1: ไอ้แมงมุม (2002)
 http://b1.inwstream.com:1935/FW_Blu-Ray/Spider_Man_2002_4K/Spider_Man_2002_4K_2160p_ATMOS_HDR.mkv?.m3u8
 
 #EXTINF:-1 tvg-logo="https://img1.hotstarext.com/image/upload/f_auto,q_90,w_3840/sources/r1/cms/prod/7255/1557255-v-59d4c87717c4",Guardians of the Galaxy Vol 3 (2023) รวมพันธุ์นักสู้พิทักษ์จักรวาล 3
-
+#EXTVLCOPT:http-user-agent=PrimeTimeLauncher/1.0.2 (Linux;Android 10) ExoPlayerLib/1.5.11
 https://b1.inwstream.com:1936/FW_UHD/Guardians_of_the_Galaxy_Vol_3_2023_4K/Guardians_of_the_Galaxy_Vol_3_2023_4K_2160p_ATMOS_HDR_IMAX.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20170714214806qKfrH1ur0ncuHPwGfU9GFKzidet.jpg",Rocky ร็อคกี้ (1976)
-
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20170714214806qKfrH1ur0ncuHPwGfU9GFKzidet.jpg" group-title="4K",,Rocky ร็อคกี้ (1976)
+#EXTVLCOPT:http-user-agent=PrimeTimeLauncher/1.0.2 (Linux;Android 10) ExoPlayerLib/1.5.11
 https://b1.inwstream.com:1936/FW_Blu-Ray/Rocky_1976_4K/Rocky_1976_4K_2160p_HDR.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GzlP8f3.jpg",Fast X (2023) - เร็ว..แรงทะลุนรก 10
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GzlP8f3.jpg" group-title="4K",,Fast X (2023) - เร็ว..แรงทะลุนรก 10
+#EXTVLCOPT:http-user-agent=PrimeTimeLauncher/1.0.2 (Linux;Android 10) ExoPlayerLib/1.5.11
 https://b1.inwstream.com:1936/FW_UHD/Fast_X_2023_4K/Fast_X_2023_4K_2160p_ATMOS_HDR.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20200419181547Goosebumps%20%E0%B8%84%E0%B8%B7%E0%B8%99%E0%B8%AD%E0%B8%B1%E0%B8%A8%E0%B8%88%E0%B8%A3%E0%B8%A3%E0%B8%A2%E0%B9%8C%E0%B8%82%E0%B8%99%E0%B8%AB%E0%B8%B1%E0%B8%A7%E0%B8%A5%E0%B8%B8%E0%B8%81%20(2015).jpg",Goosebumps คืนอัศจรรย์ขนหัวลุก (2015)
-
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20200419181547Goosebumps%20%E0%B8%84%E0%B8%B7%E0%B8%99%E0%B8%AD%E0%B8%B1%E0%B8%A8%E0%B8%88%E0%B8%A3%E0%B8%A3%E0%B8%A2%E0%B9%8C%E0%B8%82%E0%B8%99%E0%B8%AB%E0%B8%B1%E0%B8%A7%E0%B8%A5%E0%B8%B8%E0%B8%81%20(2015).jpg" group-title="4K",,Goosebumps คืนอัศจรรย์ขนหัวลุก (2015)
+#EXTVLCOPT:http-user-agent=PrimeTimeLauncher/1.0.2 (Linux;Android 10) ExoPlayerLib/1.5.11
 https://b1.inwstream.com:1936/FW_Blu-Ray/Goosebumps_2015_4K/Goosebumps_2015_4K_2160p_HDR.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20190521173554goosebumps-2-5c0e6d8f87514.jpg",Goosebumps 2: Haunted Halloween คืนอัศจรรย์ขนหัวลุก 2 หุ่นฝังแค้น (2018)
-
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20190521173554goosebumps-2-5c0e6d8f87514.jpg" group-title="4K",,Goosebumps 2: Haunted Halloween คืนอัศจรรย์ขนหัวลุก 2 หุ่นฝังแค้น (2018)
+#EXTVLCOPT:http-user-agent=PrimeTimeLauncher/1.0.2 (Linux;Android 10) ExoPlayerLib/1.5.11
 https://b1.inwstream.com:1936/FW_Blu-Ray/Goosebumps_2_Haunted_Halloween_2018_4K/Goosebumps_2_Haunted_Halloween_2018_4K_2160p_ATMOS_HDR.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20200423143343300%20%E0%B8%82%E0%B8%B8%E0%B8%99%E0%B8%A8%E0%B8%B6%E0%B8%81%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B8%B8%E0%B9%8C%E0%B8%AA%E0%B8%B0%E0%B8%97%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B9%82%E0%B8%A5%E0%B8%81%20(2006).jpg",300 ขุนศึกพันธุ์สะท้านโลก (2006)
-
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20200423143343300%20%E0%B8%82%E0%B8%B8%E0%B8%99%E0%B8%A8%E0%B8%B6%E0%B8%81%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B8%B8%E0%B9%8C%E0%B8%AA%E0%B8%B0%E0%B8%97%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B9%82%E0%B8%A5%E0%B8%81%20(2006).jpg" group-title="4K",,300 ขุนศึกพันธุ์สะท้านโลก (2006)
+#EXTVLCOPT:http-user-agent=PrimeTimeLauncher/1.0.2 (Linux;Android 10) ExoPlayerLib/1.5.11
 https://b1.inwstream.com:1936/FW_Blu-Ray/300_2006_4K/300_2006_4K_2160p_ATMOS_HDR.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/202304102058503GrRgt6CiLIUXUtoktcv1g2iwT5.jpg",Shazam! Fury of the Gods ชาแซม! จุดเดือดเทพเจ้า (2023)
-
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/202304102058503GrRgt6CiLIUXUtoktcv1g2iwT5.jpg" group-title="4K",,Shazam! Fury of the Gods ชาแซม! จุดเดือดเทพเจ้า (2023)
+#EXTVLCOPT:http-user-agent=PrimeTimeLauncher/1.0.2 (Linux;Android 10) ExoPlayerLib/1.5.11
 https://b1.inwstream.com:1936/FW_UHD/Shazam_Fury_of_the_Gods_2023_4K/Shazam_Fury_of_the_Gods_2023_4K_2160p_HDR.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20200430143552Jumanji%20%E0%B8%88%E0%B8%B9%E0%B9%81%E0%B8%A1%E0%B8%99%E0%B8%88%E0%B8%B5%E0%B9%89%20%E0%B9%80%E0%B8%81%E0%B8%A1%E0%B8%94%E0%B8%B9%E0%B8%94%E0%B9%82%E0%B8%A5%E0%B8%81%E0%B8%A1%E0%B8%AB%E0%B8%B1%E0%B8%A8%E0%B8%88%E0%B8%A3%E0%B8%A3%E0%B8%A2%E0%B9%8C%20(1995).jpg",Jumanji จูแมนจี้ เกมดูดโลกมหัศจรรย์ (1995)
-
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20200430143552Jumanji%20%E0%B8%88%E0%B8%B9%E0%B9%81%E0%B8%A1%E0%B8%99%E0%B8%88%E0%B8%B5%E0%B9%89%20%E0%B9%80%E0%B8%81%E0%B8%A1%E0%B8%94%E0%B8%B9%E0%B8%94%E0%B9%82%E0%B8%A5%E0%B8%81%E0%B8%A1%E0%B8%AB%E0%B8%B1%E0%B8%A8%E0%B8%88%E0%B8%A3%E0%B8%A3%E0%B8%A2%E0%B9%8C%20(1995).jpg" group-title="4K",,Jumanji จูแมนจี้ เกมดูดโลกมหัศจรรย์ (1995)
+#EXTVLCOPT:http-user-agent=PrimeTimeLauncher/1.0.2 (Linux;Android 10) ExoPlayerLib/1.5.11
 https://b1.inwstream.com:1936/FW_Blu-Ray/Jumanji_1995_4K/Jumanji_1995_4K_2160p_ATMOS_HDR.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20200309142759jumanji-welcome-to-the-jungle-sequel-5dab15048fa2a%20(1).jpg",Jumanji: The Next Level เกมดูดโลก ตะลุยด่านมหัศจรรย์ (2019)
-
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20200309142759jumanji-welcome-to-the-jungle-sequel-5dab15048fa2a%20(1).jpg" group-title="4K",,Jumanji: The Next Level เกมดูดโลก ตะลุยด่านมหัศจรรย์ (2019)
+#EXTVLCOPT:http-user-agent=PrimeTimeLauncher/1.0.2 (Linux;Android 10) ExoPlayerLib/1.5.11
 https://b1.inwstream.com:1936/FW_Blu-Ray/Jumanji_The_Next_Level_2019_4K/Jumanji_The_Next_Level_2019_4K_2160p_SDR.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20180313160301jumanji-welcome-to-the-jungle-5aa49c7577ae2.jpg",Jumanji: Welcome to the Jungle เกมดูดโลก บุกป่ามหัศจรรย์ (2017)
-
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20180313160301jumanji-welcome-to-the-jungle-5aa49c7577ae2.jpg" group-title="4K",,Jumanji: Welcome to the Jungle เกมดูดโลก บุกป่ามหัศจรรย์ (2017)
+#EXTVLCOPT:http-user-agent=PrimeTimeLauncher/1.0.2 (Linux;Android 10) ExoPlayerLib/1.5.11
 https://b1.inwstream.com:1936/FW_Blu-Ray/Jumanji_Welcome_to_the_Jungle_2017_4K/Jumanji_Welcome_to_the_Jungle_2017_4K_2160p_ATMOS_HDR.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20170719202642MV5BMjQ1NjM3MTUxNV5BMl5BanBnXkFtZTgwMDc5MTY5OTE@._V1_SY1000_CR0,0,647,1000_AL_.jpg",Hacksaw Ridge วีรบุรุษสมรภูมิปาฏิหาริย์ (2016)
-
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20170719202642MV5BMjQ1NjM3MTUxNV5BMl5BanBnXkFtZTgwMDc5MTY5OTE@._V1_SY1000_CR0,0,647,1000_AL_.jpg" group-title="4K",,Hacksaw Ridge วีรบุรุษสมรภูมิปาฏิหาริย์ (2016)
+#EXTVLCOPT:http-user-agent=PrimeTimeLauncher/1.0.2 (Linux;Android 10) ExoPlayerLib/1.5.11
 https://b1.inwstream.com:1936/FW_Blu-Ray/Hacksaw_Ridge_2016_4K/Hacksaw_Ridge_2016_4K_2160p_ATMOS_HDR.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20200408160530John%20Wick%20%E0%B8%88%E0%B8%AD%E0%B8%AB%E0%B9%8C%E0%B8%99%E0%B8%A7%E0%B8%B4%E0%B8%84%20%E0%B9%81%E0%B8%A3%E0%B8%87%E0%B8%81%E0%B8%A7%E0%B9%88%E0%B8%B2%E0%B8%99%E0%B8%A3%E0%B8%81%20(2014).jpg",John Wick จอห์นวิค แรงกว่านรก (2014)
-
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20200408160530John%20Wick%20%E0%B8%88%E0%B8%AD%E0%B8%AB%E0%B9%8C%E0%B8%99%E0%B8%A7%E0%B8%B4%E0%B8%84%20%E0%B9%81%E0%B8%A3%E0%B8%87%E0%B8%81%E0%B8%A7%E0%B9%88%E0%B8%B2%E0%B8%99%E0%B8%A3%E0%B8%81%20(2014).jpg" group-title="4K",,John Wick จอห์นวิค แรงกว่านรก (2014)
+#EXTVLCOPT:http-user-agent=PrimeTimeLauncher/1.0.2 (Linux;Android 10) ExoPlayerLib/1.5.11
 https://b1.inwstream.com:1936/FW_Blu-Ray/John_Wick_2014_4K/John_Wick_2014_4K_2160p_ATMOS_HDR.mkv
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20170613222850john-wick-chapter-2-dvd-cover.jpg",John Wick: Chapter 2 จอห์น วิค แรงกว่านรก 2 (2017)
-
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20170613222850john-wick-chapter-2-dvd-cover.jpg" group-title="4K",,John Wick: Chapter 2 จอห์น วิค แรงกว่านรก 2 (2017)
+#EXTVLCOPT:http-user-agent=PrimeTimeLauncher/1.0.2 (Linux;Android 10) ExoPlayerLib/1.5.11
 https://b1.inwstream.com:1936/FW_Blu-Ray/John_Wick_Chapter_2_2017_4K/John_Wick_Chapter_2_2017_4K_2160p_ATMOS_HDR.mkv
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20190912063329john-wick-chapter-3--parabellum-5d640cbfa6ef8.jpg",John Wick: Chapter 3 - Parabellum จอห์น วิค แรงกว่านรก 3 (2019)
-
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20190912063329john-wick-chapter-3--parabellum-5d640cbfa6ef8.jpg" group-title="4K",,John Wick: Chapter 3 - Parabellum จอห์น วิค แรงกว่านรก 3 (2019)
+#EXTVLCOPT:http-user-agent=PrimeTimeLauncher/1.0.2 (Linux;Android 10) ExoPlayerLib/1.5.11
 https://b1.inwstream.com:1936/FW_Blu-Ray/John_Wick_Chapter_3_Parabellum_2019_4K/John_Wick_Chapter_3_Parabellum_2019_4K_2160p_ATMOS_HDR.mkv
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20190629072927shazam-5c15615784497.jpg",Shazam! ชาแซม! (2019)
-
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20190629072927shazam-5c15615784497.jpg" group-title="4K",,Shazam! ชาแซม! (2019)
+#EXTVLCOPT:http-user-agent=PrimeTimeLauncher/1.0.2 (Linux;Android 10) ExoPlayerLib/1.5.11
 https://b1.inwstream.com:1936/FW_Blu-Ray/Shazam_2019_4K/Shazam_2019_4K_2160p_ATMOS_HDR.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20230328100414avatar-the-way-of-water-636426692150f.jpg",Avatar: The Way of Water อวตาร: วิถีแห่งสายน้ำ (2022) 4K HDR (มีเสียงไทยโรง บรรยายไทยแปล)
-
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20230328100414avatar-the-way-of-water-636426692150f.jpg" group-title="4K",,Avatar: The Way of Water อวตาร: วิถีแห่งสายน้ำ (2022) 4K HDR (มีเสียงไทยโรง บรรยายไทยแปล)
+#EXTVLCOPT:http-user-agent=PrimeTimeLauncher/1.0.2 (Linux;Android 10) ExoPlayerLib/1.5.11
 https://b1.inwstream.com:1936/FW_UHD/Avatar_The_Way_of_Water_2022_4K/Avatar_The_Way_of_Water_2022_4K_2160p_HDR_T.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20211125095206venom-let-there-be-carnage-612a79a364e39.jpg",Venom: Let There Be Carnage เวน่อม ศึกอสูรแดงเดือด (2021) 4K
-
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20211125095206venom-let-there-be-carnage-612a79a364e39.jpg" group-title="4K",,Venom: Let There Be Carnage เวน่อม ศึกอสูรแดงเดือด (2021) 4K
+#EXTVLCOPT:http-user-agent=PrimeTimeLauncher/1.0.2 (Linux;Android 10) ExoPlayerLib/1.5.11
 https://b1.inwstream.com:1936/FW_Blu-Ray/Venom_Let_There_Be_Carnage_2021_4K/Venom_Let_There_Be_Carnage_2021_4K_2160p_ATMOS_HDR.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Wew9hm0.jpg",The Meg เม็ก โคตรหลามพันล้านปี (2018)
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Wew9hm0.jpg" group-title="4K",,The Meg เม็ก โคตรหลามพันล้านปี (2018)
+#EXTVLCOPT:http-user-agent=PrimeTimeLauncher/1.0.2 (Linux;Android 10) ExoPlayerLib/1.5.11
 https://b1.inwstream.com:1936/FW_Blu-Ray/The_Meg_2018_4K/The_Meg_2018_4K_2160p_ATMOS_HDR.mkv
 
-#EXTINF:-1 tvg-logo="https://cdni-hw.bugaboo.tv/dm/sz-md/i/images/2022/10/19/ffqys4aakaahyut_1666164409_6632.jpg",Black Panther: Wakanda Forever แบล็ค แพนเธอร์: วาคานด้าจงเจริญ (2022)
-
+#EXTINF:-1 tvg-logo="https://cdni-hw.bugaboo.tv/dm/sz-md/i/images/2022/10/19/ffqys4aakaahyut_1666164409_6632.jpg" group-title="4K",,Black Panther: Wakanda Forever แบล็ค แพนเธอร์: วาคานด้าจงเจริญ (2022)
+#EXTVLCOPT:http-user-agent=PrimeTimeLauncher/1.0.2 (Linux;Android 10) ExoPlayerLib/1.5.11
 https://b1.inwstream.com:1936/FW_Blu-Ray/Black_Panther_Wakanda_Forever_2022_4K/Black_Panther_Wakanda_Forever_2022_4K_2160p_ATMOS_HDR_IMAX.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.x10movies4k.com/wp-content/uploads/2022/12/Deadpool-A.jpg",Deadpool เดดพูล (2016) พากย์ไทย 4K
-
+#EXTINF:-1 tvg-logo="https://www.x10movies4k.com/wp-content/uploads/2022/12/Deadpool-A.jpg" group-title="4K",,Deadpool เดดพูล (2016) พากย์ไทย 4K
+#EXTVLCOPT:http-user-agent=PrimeTimeLauncher/1.0.2 (Linux;Android 10) ExoPlayerLib/1.5.11
 https://x10movies4k-publish.obs.ap-southeast-2.myhuaweicloud.com/4k/Deadpool/Deadpool%20%282016%29%202160p.mp4
 
-#EXTINF:-1 tvg-logo="https://www.x10movies4k.com/wp-content/uploads/2022/12/Deadpool-2.jpg",Deadpool 2 เดดพูล 2 (2018) พากย์ไทย 4K
-
+#EXTINF:-1 tvg-logo="https://www.x10movies4k.com/wp-content/uploads/2022/12/Deadpool-2.jpg" group-title="4K",,Deadpool 2 เดดพูล 2 (2018) พากย์ไทย 4K
+#EXTVLCOPT:http-user-agent=PrimeTimeLauncher/1.0.2 (Linux;Android 10) ExoPlayerLib/1.5.11
 https://x10movies4k-publish.obs.ap-southeast-2.myhuaweicloud.com/4k/Deadpool/Deadpool%202%20%282018%29%202160p.mp4
 
-#EXTINF:-1 tvg-logo="https://www.hdmoviesource.com/v/vspfiles/photos/10331-1.jpg", Gods of Egypt (2016)-สงครามเทวดา HDR
-
+#EXTINF:-1 tvg-logo="https://www.hdmoviesource.com/v/vspfiles/photos/10331-1.jpg" group-title="4K",, Gods of Egypt (2016)-สงครามเทวดา HDR
+#EXTVLCOPT:http-user-agent=PrimeTimeLauncher/1.0.2 (Linux;Android 10) ExoPlayerLib/1.5.11
 https://b1.inwstream.com:1936/FW_Blu-Ray/Gods_of_Egypt_2016_4K/Gods_of_Egypt_2016_4K_2160p_HDR.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/51++vzHMjwL._AC_SY780_.jpg",up ปู่ซ่าบ้าพลัง Atmos HDR
-
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/51++vzHMjwL._AC_SY780_.jpg" group-title="4K",,up ปู่ซ่าบ้าพลัง Atmos HDR
+#EXTVLCOPT:http-user-agent=PrimeTimeLauncher/1.0.2 (Linux;Android 10) ExoPlayerLib/1.5.11
 https://b1.inwstream.com:1936/FW_Blu-Ray/Up_2009_4K/Up_2009_4K_2160p_ATMOS_HDR.mkv
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20200313213802brawl-in-cell-block-99-59e25a12c32cf.jpg",Brawl in Cell Block 99 (2017)
-
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20200313213802brawl-in-cell-block-99-59e25a12c32cf.jpg" group-title="4K",,Brawl in Cell Block 99 (2017)
+#EXTVLCOPT:http-user-agent=PrimeTimeLauncher/1.0.2 (Linux;Android 10) ExoPlayerLib/1.5.11
 https://b1.inwstream.com:1936/FW_Blu-Ray/Brawl_in_Cell_Block_99_2017_4K/Brawl_in_Cell_Block_99_2017_4K_2160p_SDR.mkv
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMWEwNjhkYzYtNjgzYy00YTY2LThjYWYtYzViMGJkZTI4Y2MyXkEyXkFqcGdeQXVyNTM0OTY1OQ@@.jpg",ผจญภัยล่าขุมทรัพย์สุดขอบโลก (2022)
-
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMWEwNjhkYzYtNjgzYy00YTY2LThjYWYtYzViMGJkZTI4Y2MyXkEyXkFqcGdeQXVyNTM0OTY1OQ@@.jpg" group-title="4K",,ผจญภัยล่าขุมทรัพย์สุดขอบโลก (2022)
+#EXTVLCOPT:http-user-agent=PrimeTimeLauncher/1.0.2 (Linux;Android 10) ExoPlayerLib/1.5.11
 https://b1.inwstream.com:1936/FW_Blu-Ray/Uncharted_2022_4K/Uncharted_2022_4K_2160p_ATMOS_HDR.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYzZkOGUwMzMtMTgyNS00YjFlLTg5NzYtZTE3Y2E5YTA5NWIyXkEyXkFqcGdeQXVyMjkwOTAyMDU@.jpg",Black Adam (2022) - แบล็ก อดัม
-
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYzZkOGUwMzMtMTgyNS00YjFlLTg5NzYtZTE3Y2E5YTA5NWIyXkEyXkFqcGdeQXVyMjkwOTAyMDU@.jpg" group-title="4K",,Black Adam (2022) - แบล็ก อดัม
+#EXTVLCOPT:http-user-agent=PrimeTimeLauncher/1.0.2 (Linux;Android 10) ExoPlayerLib/1.5.11
 https://b1.inwstream.com:1936/FW_Blu-Ray/Black_Adam_2022_4K/Black_Adam_2022_4K_2160p_ATMOS_HDR.mkv
 
-#EXTINF:-1 tvg-logo="https://postto.me/217/aob.jpg",Minions: The Rise of Gru มินเนี่ยน 2 (2022)
-
+#EXTINF:-1 tvg-logo="https://postto.me/217/aob.jpg" group-title="4K",,Minions: The Rise of Gru มินเนี่ยน 2 (2022)
+#EXTVLCOPT:http-user-agent=PrimeTimeLauncher/1.0.2 (Linux;Android 10) ExoPlayerLib/1.5.11
 https://b1.inwstream.com:1936/FW_Blu-Ray/Minions_The_Rise_of_Gru_2022_4K/Minions_The_Rise_of_Gru_2022_4K_2160p_ATMOS_HDR.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/202209072006452kpJdmtf3o0GrowVjM5AspC4dY2.jpg",Thor: Love and Thunder ธอร์: ด้วยรักและอัสนี (2022)
-
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/202209072006452kpJdmtf3o0GrowVjM5AspC4dY2.jpg" group-title="4K",,Thor: Love and Thunder ธอร์: ด้วยรักและอัสนี (2022)
+#EXTVLCOPT:http-user-agent=PrimeTimeLauncher/1.0.2 (Linux;Android 10) ExoPlayerLib/1.5.11
 https://b1.inwstream.com:1936/FW_Blu-Ray/Thor_Love_and_Thunder_2022_4K/Thor_Love_and_Thunder_2022_4K_2160p_SDR.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220824095957dc-league-of-super-pets-62e542af49488.jpg",DC League of Super-Pets ขบวนการซูเปอร์เพ็ทส์ (2022) 4K HDR
-
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220824095957dc-league-of-super-pets-62e542af49488.jpg" group-title="4K",,DC League of Super-Pets ขบวนการซูเปอร์เพ็ทส์ (2022) 4K HDR
+#EXTVLCOPT:http-user-agent=PrimeTimeLauncher/1.0.2 (Linux;Android 10) ExoPlayerLib/1.5.11
 https://b1.inwstream.com:1936/FW_Blu-Ray/DC_League_of_Super_Pets_2022_4K/DC_League_of_Super_Pets_2022_4K_2160p_HDR_T.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220823094358top-gun-maverick-629cf9e58e5ec.jpg",Top Gun: Maverick ท็อปกัน มาเวอริค (2022) IMAX Version 4K HDR
-
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220823094358top-gun-maverick-629cf9e58e5ec.jpg" group-title="4K",,Top Gun: Maverick ท็อปกัน มาเวอริค (2022) IMAX Version 4K HDR
+#EXTVLCOPT:http-user-agent=PrimeTimeLauncher/1.0.2 (Linux;Android 10) ExoPlayerLib/1.5.11
 https://b1.inwstream.com:1936/FW_Blu-Ray/Top_Gun_Maverick_2022_4K/Top_Gun_Maverick_2022_4K_2160p_ATMOS_HDR_IMAX.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20190722062643top-gun-58dc5e843e290.jpg",Top Gun ท็อปกัน ฟ้าเหนือฟ้า (1986)
-
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20190722062643top-gun-58dc5e843e290.jpg" group-title="4K",,Top Gun ท็อปกัน ฟ้าเหนือฟ้า (1986)
+#EXTVLCOPT:http-user-agent=PrimeTimeLauncher/1.0.2 (Linux;Android 10) ExoPlayerLib/1.5.11
 https://b1.inwstream.com:1936/FW_Blu-Ray/Top_Gun_1986_4K/Top_Gun_1986_4K_2160p_ATMOS_HDR.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.net/images/M/MV5BMTkxNzI3ODI4Nl5BMl5BanBnXkFtZTgwMjkwMjY4MjE@.jpg",American Sniper (2014) อเมริกัน สไนเปอร์ 
-
+#EXTINF:-1 tvg-logo="https://m.media-amazon.net/images/M/MV5BMTkxNzI3ODI4Nl5BMl5BanBnXkFtZTgwMjkwMjY4MjE@.jpg" group-title="4K",,American Sniper (2014) อเมริกัน สไนเปอร์ 
+#EXTVLCOPT:http-user-agent=PrimeTimeLauncher/1.0.2 (Linux;Android 10) ExoPlayerLib/1.5.11
 https://b1.inwstream.com:1936/FW_Blu-Ray/American_Sniper_2014_4K/American_Sniper_2014_4K_2160p_ATMOS_HDR.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://images4.imagebam.net/94/23/b3/MEBFFDB_o.jpg",The Bad Guys (2022) : วายร้ายพันธุ์ดี 
-
+#EXTINF:-1 tvg-logo="https://images4.imagebam.net/94/23/b3/MEBFFDB_o.jpg" group-title="4K",,The Bad Guys (2022) : วายร้ายพันธุ์ดี 
+#EXTVLCOPT:http-user-agent=PrimeTimeLauncher/1.0.2 (Linux;Android 10) ExoPlayerLib/1.5.11
 https://b1.inwstream.com:1936/FW_Blu-Ray/The_Bad_Guys_2022_4K/The_Bad_Guys_2022_4K_2160p_ATMOS_HDR.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/202206220636589yu8XNq18quSA9vp909CQRo4ksB.jpg",Doctor Strange in the Multiverse of Madness IMAX จอมเวทย์มหากาฬ ในมัลติเวิร์สมหาภัย (2022)IMAX
-
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/202206220636589yu8XNq18quSA9vp909CQRo4ksB.jpg" group-title="4K",,Doctor Strange in the Multiverse of Madness IMAX จอมเวทย์มหากาฬ ในมัลติเวิร์สมหาภัย (2022)IMAX
+#EXTVLCOPT:http-user-agent=PrimeTimeLauncher/1.0.2 (Linux;Android 10) ExoPlayerLib/1.5.11
 https://b1.inwstream.com:1936/FW_Blu-Ray/Doctor_Strange_in_the_Multiverse_of_Madness_2022_4K/Doctor_Strange_in_the_Multiverse_of_Madness_2022_4K_2160p_ATMOS_HDR_IMAX.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/202206220636589yu8XNq18quSA9vp909CQRo4ksB.jpg",Doctor Strange in the Multiverse of Madness จอมเวทย์มหากาฬ ในมัลติเวิร์สมหาภัย (2022) บรรยายไทย
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/202206220636589yu8XNq18quSA9vp909CQRo4ksB.jpg" group-title="4K",,Doctor Strange in the Multiverse of Madness จอมเวทย์มหากาฬ ในมัลติเวิร์สมหาภัย (2022) บรรยายไทย
 https://b1.inwstream.com:1936/FW_Blu-Ray/Doctor_Strange_in_the_Multiverse_of_Madness_2022_4K/Doctor_Strange_in_the_Multiverse_of_Madness_2022_4K_2160p_SDR_ST.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20210721091341gunpowder-milkshake-60ef19c190443.jpg",Gunpowder Milkshake นรกเรียกแม่ (2021) 4K
-
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20210721091341gunpowder-milkshake-60ef19c190443.jpg" group-title="4K",,Gunpowder Milkshake นรกเรียกแม่ (2021) 4K
+#EXTVLCOPT:http-user-agent=PrimeTimeLauncher/1.0.2 (Linux;Android 10) ExoPlayerLib/1.5.11
 https://b1.inwstream.com:1936/FW_Blu-Ray/Gunpowder_Milkshake_2021_4K/Gunpowder_Milkshake_2021_4K_2160p_ATMOS_HDR_TH2_1.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220419113622355-5f7d7edd100c5.jpg",The 355 ปฏิบัติการสวยลับ (2022) บรรยายไทยแปล 4K
-
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220419113622355-5f7d7edd100c5.jpg" group-title="4K",,The 355 ปฏิบัติการสวยลับ (2022) บรรยายไทยแปล 4K
+#EXTVLCOPT:http-user-agent=PrimeTimeLauncher/1.0.2 (Linux;Android 10) ExoPlayerLib/1.5.11
 https://b1.inwstream.com:1936/FW_Blu-Ray/The_355_2022_4K/The_355_2022_4K_2160p_DTS_HD_SDR_T.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220419113327ME9G01SL_o.jpg",The Batman เดอะ แบทแมน (2022) 4K
-
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220419113327ME9G01SL_o.jpg" group-title="4K",,The Batman เดอะ แบทแมน (2022) 4K
+#EXTVLCOPT:http-user-agent=PrimeTimeLauncher/1.0.2 (Linux;Android 10) ExoPlayerLib/1.5.11
 https://b1.inwstream.com:1936/FW_Blu-Ray/The_Batman_2022_4K/The_Batman_2022_4K_2160p_ATMOS_HDR.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220418110230the-game-changers-61b9b519d1082.jpg",The Game Changers เดอะ เกม เชนเจอร์ส (2018) บรรยายไทย 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220418110230the-game-changers-61b9b519d1082.jpg" group-title="4K",,The Game Changers เดอะ เกม เชนเจอร์ส (2018) บรรยายไทย 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/The_Game_Changers_2018_4K/The_Game_Changers_2018_4K_2160p_SDR_ST.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220418094159ordinary-people-5a39290b1936cf.jpg",Ordinary People เส้นทางมนุษย์ (1980) บรรยายไทย 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220418094159ordinary-people-5a39290b1936cf.jpg" group-title="4K",,Ordinary People เส้นทางมนุษย์ (1980) บรรยายไทย 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/Ordinary_People_1980_4K/Ordinary_People_1980_4K_2160p_TrueHD_SDR_ST.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220416181510images.jpg",The Sadness (Ku bei) (2021) บรรยายไทยแปล 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220416181510images.jpg" group-title="4K",,The Sadness (Ku bei) (2021) บรรยายไทยแปล 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/The_Sadness_2021_4K/The_Sadness_2021_4K_2160p_DTS_HD_SDR_T.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220416100212the-little-mermaid-522a944095a57.jpg",The Little Mermaid เงือกน้อยผจญภัย (1989) 4K
-
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220416100212the-little-mermaid-522a944095a57.jpg" group-title="4K",,The Little Mermaid เงือกน้อยผจญภัย (1989) 4K
+#EXTVLCOPT:http-user-agent=PrimeTimeLauncher/1.0.2 (Linux;Android 10) ExoPlayerLib/1.5.11
 https://b1.inwstream.com:1936/FW_Blu-Ray/The_Little_Mermaid_1989_4K/The_Little_Mermaid_1989_4K_2160p_DTS_HD_SDR.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220320084712images.jpg",Fresh (2022) บรรยายไทยมาสเตอร์ 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220320084712images.jpg" group-title="4K",,Fresh (2022) บรรยายไทยมาสเตอร์ 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/Fresh_2022_4K/Fresh_2022_4K_2160p_SDR_ST.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220413201509egK1B083VU5KmUDIqfZfROz0lbu.jpg",Let Them All Talk สนทนาภาษาชีวิต (2020) 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220413201509egK1B083VU5KmUDIqfZfROz0lbu.jpg" group-title="4K",,Let Them All Talk สนทนาภาษาชีวิต (2020) 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/Let_Them_All_Talk_2020_4K/Let_Them_All_Talk_2020_4K_2160p_SDR.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220412103050this-is-the-end-534571858b4ae.jpg",This Is the End วันเนี๊ย...จบป่ะ (2013) 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220412103050this-is-the-end-534571858b4ae.jpg" group-title="4K",,This Is the End วันเนี๊ย...จบป่ะ (2013) 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/This_Is_the_End_2013_4K/This_Is_the_End_2013_4K_2160p_DTS_HD_SDR.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220411152953the-proposition-531fd0c8a16b8.jpg",The Proposition เดนเมืองดิบ (2005) 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220411152953the-proposition-531fd0c8a16b8.jpg" group-title="4K",,The Proposition เดนเมืองดิบ (2005) 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/The_Proposition_2005_4K/The_Proposition_2005_4K_2160p_DTS_HD_SDR.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220126102629sing-2-61a4819f3f629.jpg",Sing 2 ร้องจริง เสียงจริง 2 (2021) 4K Ultra HD
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220126102629sing-2-61a4819f3f629.jpg" group-title="4K",,Sing 2 ร้องจริง เสียงจริง 2 (2021) 4K Ultra HD
 https://b1.inwstream.com:1936/FW_Blu-Ray/Sing_2_2021_4K/Sing_2_2021_4K_2160p_DTS_HD_SDR.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220409201214the-in-between-6213e9b1cdf6f0.jpg",The In Between (2022) 4K 
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220409201214the-in-between-6213e9b1cdf6f0.jpg" group-title="4K",,The In Between (2022) 4K 
 https://b1.inwstream.com:1936/FW_Blu-Ray/The_In_Between_2022_4K/The_In_Between_2022_4K_2160p_SDR.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220409112336minamata-60c45b6a5c115.jpg",Minamata มินามาตะ ภาพถ่ายโลกตะลึง (2020) บรรยายไทยแปล 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220409112336minamata-60c45b6a5c115.jpg" group-title="4K",,Minamata มินามาตะ ภาพถ่ายโลกตะลึง (2020) บรรยายไทยแปล 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/Minamata_2020_4K/Minamata_2020_4K_2160p_DTS_HD_SDR_T.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220408112820hjgjfj1fg.jpg",The Land of Steady Habits ดินแดนแห่งความมั่นคง (2018) บรรยายไทย 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220408112820hjgjfj1fg.jpg" group-title="4K",,The Land of Steady Habits ดินแดนแห่งความมั่นคง (2018) บรรยายไทย 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/The_Land_of_Steady_Habits_2018_4K/The_Land_of_Steady_Habits_2018_4K_2160p_SDR_ST.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220329181415death-on-the-nile-61d2f15b690ac.jpg",Death on the Nile ฆาตกรรมบนลำน้ำไนล์ (2022) 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220329181415death-on-the-nile-61d2f15b690ac.jpg" group-title="4K",,Death on the Nile ฆาตกรรมบนลำน้ำไนล์ (2022) 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/Death_on_the_Nile_2022_4K/Death_on_the_Nile_2022_4K_2160p_DTS_HD_SDR_TH2.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220405094337the-house-next-door-610cf6c17ea2d.jpg",The House Next Door (The House Next Door: Meet the Blacks 2) (2021) บรรยายไทย 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220405094337the-house-next-door-610cf6c17ea2d.jpg" group-title="4K",,The House Next Door (The House Next Door: Meet the Blacks 2) (2021) บรรยายไทย 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/The_House_Next_Door_2021_4K/The_House_Next_Door_2021_4K_2160p_SDR_ST.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220405093424shortbus-58fc507e8d1b0e.jpg",Shortbus ช็อตบัส (2006) 4K Ultra HD (20+ ไม่เหมาะกับผู้มีอายุต่ำกว่า 20 ปี)
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220405093424shortbus-58fc507e8d1b0e.jpg" group-title="4K",,Shortbus ช็อตบัส (2006) 4K Ultra HD (20+ ไม่เหมาะกับผู้มีอายุต่ำกว่า 20 ปี)
 https://b1.inwstream.com:1936/FW_Blu-Ray/Shortbus_2006_4K/Shortbus_2006_4K_2160p_DTS_HD_SDR.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220404181111christopher-robin-5b070b47998ba.jpg",Christopher Robin คริสโตเฟอร์ โรบิน (2018) 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220404181111christopher-robin-5b070b47998ba.jpg" group-title="4K",,Christopher Robin คริสโตเฟอร์ โรบิน (2018) 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/Christopher_Robin_2018_4K/Christopher_Robin_2018_4K_2160p_DTS_HD_SDR.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220404121955the-contractor-621485da8791a.jpg",The Contractor คนพิฆาตคอนแทรคเตอร์ (2022) บรรยายไทยแปล 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220404121955the-contractor-621485da8791a.jpg" group-title="4K",,The Contractor คนพิฆาตคอนแทรคเตอร์ (2022) บรรยายไทยแปล 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/The_Contractor_2022_4K/The_Contractor_2022_4K_2160p_SDR_T.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220404112902the-nice-guys-582608d93f1f8.jpg",The Nice Guys กายส์...นายแสบมาก (2016) 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220404112902the-nice-guys-582608d93f1f8.jpg" group-title="4K",,The Nice Guys กายส์...นายแสบมาก (2016) 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/The_Nice_Guys_2016_4K/The_Nice_Guys_2016_4K_2160p_DTS_HD_SDR.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220404101850voyagers-60a699cb6f706.jpg",Voyagers คนอนาคตโลก (2021) บรรยายไทย 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220404101850voyagers-60a699cb6f706.jpg" group-title="4K",,Voyagers คนอนาคตโลก (2021) บรรยายไทย 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/Voyagers_2021_4K/Voyagers_2021_4K_2160p_TrueHD_SDR_ST.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220403110534the-way-back-5e78da26dc8a8.jpg",The Way Back เส้นทางเกียรติยศ (2020) 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220403110534the-way-back-5e78da26dc8a8.jpg" group-title="4K",,The Way Back เส้นทางเกียรติยศ (2020) 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/The_Way_Back_2020_4K/The_Way_Back_2020_4K_2160p_DTS_HD_SDR.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220409085443images%20(1).jpg",All the Old Knives (2022) บรรยายไทย 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220409085443images%20(1).jpg" group-title="4K",,All the Old Knives (2022) บรรยายไทย 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/All_the_Old_Knives_2022_4K/All_the_Old_Knives_2022_4K_2160p_HDR_ST.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220408115119licorice-pizza-621116b474ddb.jpg",Licorice Pizza ลิโคริช พิซซ่า (2021) บรรยายไทย 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220408115119licorice-pizza-621116b474ddb.jpg" group-title="4K",,Licorice Pizza ลิโคริช พิซซ่า (2021) บรรยายไทย 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/Licorice_Pizza_2021_4K/Licorice_Pizza_2021_4K_2160p_HDR_ST.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20211011085310ic0intvXZSfBlYPIvWXpU1ivUCO.jpg",PAW Patrol: The Movie ขบวนการเจ้าตูบสี่ขา: เดอะ มูฟวี (2021) 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20211011085310ic0intvXZSfBlYPIvWXpU1ivUCO.jpg" group-title="4K",,PAW Patrol: The Movie ขบวนการเจ้าตูบสี่ขา: เดอะ มูฟวี (2021) 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/PAW_Patrol_The_Movie_2021_4K/PAW_Patrol_The_Movie_2021_4K_2160p_ATMOS_HDR_TH2.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220405173105violet-evergarden-the-movie-616d3017c949e.jpg",Violet Evergarden: The Movie (Gekijouban Violet Evergarden) ไวโอเล็ต เอเวอร์การ์เดน เดอะ มูฟวี่ (2020) บรรยายไทย 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220405173105violet-evergarden-the-movie-616d3017c949e.jpg" group-title="4K",,Violet Evergarden: The Movie (Gekijouban Violet Evergarden) ไวโอเล็ต เอเวอร์การ์เดน เดอะ มูฟวี่ (2020) บรรยายไทย 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/Violet_Evergarden_The_Movie_2020_4K/Violet_Evergarden_The_Movie_2020_4K_2160p_ATMOS_HDR_ST.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220402085344moonfall-61d89fcacd0d7.jpg",Moonfall วันวิบัติ จันทร์ถล่มโลก (2022) บรรยายไทยแปล 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220402085344moonfall-61d89fcacd0d7.jpg" group-title="4K",,Moonfall วันวิบัติ จันทร์ถล่มโลก (2022) บรรยายไทยแปล 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/Moonfall_2022_4K/Moonfall_2022_4K_2160p_SDR_T.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220401143525the-texas-chainsaw-massacre-5da7973ea7a37.jpg",The Texas Chain Saw Massacre สิงหาสับ (1974) 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220401143525the-texas-chainsaw-massacre-5da7973ea7a37.jpg" group-title="4K",,The Texas Chain Saw Massacre สิงหาสับ (1974) 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/The_Texas_Chain_Saw_Massacre_1974_4K/The_Texas_Chain_Saw_Massacre_1974_4K_2160p_DTS_HD_SDR.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220401091729images.jpg",Western Stars เวสเทิร์น สตาร์ส (2019) 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220401091729images.jpg" group-title="4K",,Western Stars เวสเทิร์น สตาร์ส (2019) 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/Western_Stars_2019_4K/Western_Stars_2019_4K_2160p_DTS_HD_SDR.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220331172144scream-620509ffb1433.jpg",Scream หวีดสุดขีด (2022) 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220331172144scream-620509ffb1433.jpg" group-title="4K",,Scream หวีดสุดขีด (2022) 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/Scream_2022_4K/Scream_2022_4K_2160p_DTS_HD_SDR.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220402080523MV5BODBkM2E1MDMtY2U4Yi00NGY1LWFjZjAtMGU5NTEwNTMwYWU5XkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_.jpg",Better Nate Than Ever (2022) 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220402080523MV5BODBkM2E1MDMtY2U4Yi00NGY1LWFjZjAtMGU5NTEwNTMwYWU5XkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_.jpg" group-title="4K",,Better Nate Than Ever (2022) 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/Better_Nate_Than_Ever_2022_4K/Better_Nate_Than_Ever_2022_4K_2160p_HDR.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220331164146moonshot.234862.jpg",Moonshot มูนชอต (2022) บรรยายไทย 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220331164146moonshot.234862.jpg" group-title="4K",,Moonshot มูนชอต (2022) บรรยายไทย 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/Moonshot_2022_4K/Moonshot_2022_4K_2160p_HDR_ST.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220331084639ljKXMWds455IYvMcTZkUBDrsHLm.jpg",Journey to China: The Mystery of Iron Mask (Iron Mask) (The Mystery of the Dragon Seal) อภินิหารมังกรฟัดโลก (2019) 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220331084639ljKXMWds455IYvMcTZkUBDrsHLm.jpg" group-title="4K",,Journey to China: The Mystery of Iron Mask (Iron Mask) (The Mystery of the Dragon Seal) อภินิหารมังกรฟัดโลก (2019) 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/Journey_to_China_the_Mystery_of_Iron_Mask_2019_4K/Journey_to_China_the_Mystery_of_Iron_Mask_2019_4K_2160p_DTS_HD_SDR.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220329172228robocop-56ec76780737d.jpg",RoboCop โรโบคอป (1987) 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220329172228robocop-56ec76780737d.jpg" group-title="4K",,RoboCop โรโบคอป (1987) 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/RoboCop_1987_4K/RoboCop_1987_4K_2160p_DTS_HD_SDR.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220329085441nordsjen-621f686790bd1.jpg",The Burning Sea ( Nordsjøen) (2021) บรรยายไทยแปล 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220329085441nordsjen-621f686790bd1.jpg" group-title="4K",,The Burning Sea ( Nordsjøen) (2021) บรรยายไทยแปล 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/The_Burning_Sea_2021_4K/The_Burning_Sea_2021_4K_2160p_DTS_HD_SDR_T.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220327094128hffnfgf.jpg",Olivia Rodrigo: Driving Home 2 U (A Sour Film) (2022) บรรยายไทย 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220327094128hffnfgf.jpg" group-title="4K",,Olivia Rodrigo: Driving Home 2 U (A Sour Film) (2022) บรรยายไทย 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/Olivia_Rodrigo_Driving_Home_2_U_2022_4K/Olivia_Rodrigo_Driving_Home_2_U_2022_4K_2160p_SDR_ST.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/2022032815195912-mighty-orphans-613076ec826ec.jpg",12 Mighty Orphans 12 ผู้เกรียงไกรแห่งไมตี้ไมต์ส (2021) บรรยายไทย 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/2022032815195912-mighty-orphans-613076ec826ec.jpg" group-title="4K",,12 Mighty Orphans 12 ผู้เกรียงไกรแห่งไมตี้ไมต์ส (2021) บรรยายไทย 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/12_Mighty_Orphans_2021_4K/12_Mighty_Orphans_2021_4K_2160p_HDR_ST.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220326132401eastern-promises-53dcc96c9bd6c.jpg",Eastern Promises บันทึกบาปสัญญาเลือด (2007) 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220326132401eastern-promises-53dcc96c9bd6c.jpg" group-title="4K",,Eastern Promises บันทึกบาปสัญญาเลือด (2007) 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/Eastern_Promises_2007_4K/Eastern_Promises_2007_4K_2160p_DTS_HD_SDR.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220208104702imag1es.jpg",The Rescue ภารกิจกู้ภัย (2021) 4K Ultra
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220208104702imag1es.jpg" group-title="4K",,The Rescue ภารกิจกู้ภัย (2021) 4K Ultra
 https://b1.inwstream.com:1936/FW_Blu-Ray/The_Rescue_2021_4K/The_Rescue_2021_4K_2160p_SDR.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220324130309frankenstein-52f1821af083e.jpg",Mary Shelley's Frankenstein แฟรงเกนสไตน์ (1994) บรรยายไทย 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220324130309frankenstein-52f1821af083e.jpg" group-title="4K",,Mary Shelley's Frankenstein แฟรงเกนสไตน์ (1994) บรรยายไทย 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/Mary_Shelley_s_Frankenstein_1994_4K/Mary_Shelley_s_Frankenstein_1994_4K_2160p_DTS_HD_SDR_ST.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220324110727chnvv.jpg",More Than Robots (2022) 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220324110727chnvv.jpg" group-title="4K",,More Than Robots (2022) 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/More_Than_Robots_2022_4K/More_Than_Robots_2022_4K_2160p_SDR.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220324094155jackass-forever.234340.jpg",Jackass Forever แจ็คแอส ฟอร์เอฟเวอร์ (2022) บรรยายไทย 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220324094155jackass-forever.234340.jpg" group-title="4K",,Jackass Forever แจ็คแอส ฟอร์เอฟเวอร์ (2022) บรรยายไทย 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/Jackass_Forever_2022_4K/Jackass_Forever_2022_4K_2160p_SDR_ST.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220308171416nightmare-alley-61a3ecff56db6.jpg",Nightmare Alley ทางฝันร้าย สายมายา (2021) 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220308171416nightmare-alley-61a3ecff56db6.jpg" group-title="4K",,Nightmare Alley ทางฝันร้าย สายมายา (2021) 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/Nightmare_Alley_2021_4K/Nightmare_Alley_2021_4K_2160p_DTS_HD_SDR_TH2.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20211013090105fdgdhd.jpg",Muppets Haunted Mansion (2021) 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20211013090105fdgdhd.jpg" group-title="4K",,Muppets Haunted Mansion (2021) 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/Muppets_Haunted_Mansion_2021_4K/Muppets_Haunted_Mansion_2021_4K_2160p_DTS_SDR.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20210703081315lady-and-the-tramp-5deb587f1f6d7.jpg",Lady and the Tramp ทรามวัยกับไอ้ตูบ (2019) 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20210703081315lady-and-the-tramp-5deb587f1f6d7.jpg" group-title="4K",,Lady and the Tramp ทรามวัยกับไอ้ตูบ (2019) 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/Lady_and_the_Tramp_2019_4K/Lady_and_the_Tramp_2019_4K_2160p_SDR.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20211113090122kbkjb.jpg",Home Sweet Home Alone (2021) 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20211113090122kbkjb.jpg" group-title="4K",,Home Sweet Home Alone (2021) 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/Home_Sweet_Home_Alone_2021_4K/Home_Sweet_Home_Alone_2021_4K_2160p_HDR.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20211027082334the-boss-baby-2-60e2002d8dbe2.jpg",The Boss Baby: Family Business เดอะ บอส เบบี้ 2 (2021) 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20211027082334the-boss-baby-2-60e2002d8dbe2.jpg" group-title="4K",,The Boss Baby: Family Business เดอะ บอส เบบี้ 2 (2021) 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/The_Boss_Baby_Family_Business_2021_4K/The_Boss_Baby_Family_Business_2021_4K_2160p_DTS_HD_SDR.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220320084712images.jpg",Fresh (2022) บรรยายไทยแปล 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220320084712images.jpg" group-title="4K",,Fresh (2022) บรรยายไทยแปล 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/Fresh_2022_4K/Fresh_2022_4K_2160p_SDR_T.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220319093750Cheaper-By-The-Dozen-Disney-2022.jpg",Cheaper by the Dozen (2022) บรรยายไทย 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220319093750Cheaper-By-The-Dozen-Disney-2022.jpg" group-title="4K",,Cheaper by the Dozen (2022) บรรยายไทย 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/Cheaper_by_the_Dozen_2022_4K/Cheaper_by_the_Dozen_2022_4K_2160p_SDR_ST.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220210172027imag3es.jpg",Kimi คิมิ (2022) 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220210172027imag3es.jpg" group-title="4K",,Kimi คิมิ (2022) 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/Kimi_2022_4K/Kimi_2022_4K_2160p_HDR.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220305100307clifford-the-big-red-dog-61d47fee4e59f.jpg",Clifford the Big Red Dog คลิฟฟอร์ด หมายักษ์สีแดง (2021) 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220305100307clifford-the-big-red-dog-61d47fee4e59f.jpg" group-title="4K",,Clifford the Big Red Dog คลิฟฟอร์ด หมายักษ์สีแดง (2021) 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/Clifford_the_Big_Red_Dog_2021_4K/Clifford_the_Big_Red_Dog_2021_4K_2160p_ATMOS_HDR.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20210714153620stargirl-5e6cc0b496210.jpg",Stargirl สตาร์เกิร์ล เด็กสาวแห่งปาฏิหาริย์ (2020) 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20210714153620stargirl-5e6cc0b496210.jpg" group-title="4K",,Stargirl สตาร์เกิร์ล เด็กสาวแห่งปาฏิหาริย์ (2020) 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/Stargirl_2020_4K/Stargirl_2020_4K_2160p_SDR.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220318121554blessed-virgin-615861e9d6e740.jpg",Benedetta เบเนเดตต้า ใครอยากให้เธอบาป (2021) 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220318121554blessed-virgin-615861e9d6e740.jpg" group-title="4K",,Benedetta เบเนเดตต้า ใครอยากให้เธอบาป (2021) 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/Benedetta_2021_4K/Benedetta_2021_4K_2160p_DTS_HD_SDR_TH2.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220318113643deep-water-2022.232299.jpg",Deep Water (2022) บรรยายไทย 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220318113643deep-water-2022.232299.jpg" group-title="4K",,Deep Water (2022) บรรยายไทย 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/Deep_Water_2022_4K/Deep_Water_2022_4K_2160p_SDR_ST.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220210165404king-richard-619aa325912a5.jpg",King Richard คิง ริชาร์ด (2021) บรรยายไทยมาสเตอร์ 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220210165404king-richard-619aa325912a5.jpg" group-title="4K",,King Richard คิง ริชาร์ด (2021) บรรยายไทยมาสเตอร์ 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/King_Richard_2021_4K/King_Richard_2021_4K_2160p_DTS_HD_SDR_ST.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220318105358images%20(2).jpg",Master (2022) บรรยายไทย 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220318105358images%20(2).jpg" group-title="4K",,Master (2022) บรรยายไทย 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/Master_2022_4K/Master_2022_4K_2160p_HDR_ST.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220129173823the-ice-age-adventures-of-buck-wild-61cdcee653afa.jpg",The Ice Age Adventures of Buck Wild (2022) 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220129173823the-ice-age-adventures-of-buck-wild-61cdcee653afa.jpg" group-title="4K",,The Ice Age Adventures of Buck Wild (2022) 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/The_Ice_Age_Adventures_of_Buck_Wild_2022_4K/The_Ice_Age_Adventures_of_Buck_Wild_2022_4K_2160p_SDR.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220317130732south-of-heaven-620a299863a35.jpg",South of Heaven (2021) บรรยายไทย 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220317130732south-of-heaven-620a299863a35.jpg" group-title="4K",,South of Heaven (2021) บรรยายไทย 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/South_of_Heaven_2021_4K/South_of_Heaven_2021_4K_2160p_SDR_ST.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20200802113427togo-5dff6f45e3fa1.jpg",Togo โทโก (2019) 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20200802113427togo-5dff6f45e3fa1.jpg" group-title="4K",,Togo โทโก (2019) 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/Togo_2019_4K/Togo_2019_4K_2160p_SDR.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20200718153813the-godfather-598cdff3b7c5f.jpg",The Godfather เดอะ ก็อดฟาเธอร์ (1972) 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20200718153813the-godfather-598cdff3b7c5f.jpg" group-title="4K",,The Godfather เดอะ ก็อดฟาเธอร์ (1972) 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/The_Godfather_1972_4K/The_Godfather_1972_4K_2160p_SDR.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20200820155901the-godfather-part-ii-54b308d5baac3.jpg",The Godfather: Part II เดอะ ก็อดฟาเธอร์ ภาค 2 (1974) 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20200820155901the-godfather-part-ii-54b308d5baac3.jpg" group-title="4K",,The Godfather: Part II เดอะ ก็อดฟาเธอร์ ภาค 2 (1974) 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/The_Godfather_Part_II_1974_4K/The_Godfather_Part_II_1974_4K_2160p_SDR.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220317130032the-godfather-part-iii-5feb57605c64f.jpg",The Godfather: Part III (Mario Puzo's The Godfather Coda: The Death of Michael Corleone) เดอะ ก็อดฟาเธอร์ 3 (1990) บรรยายไทย 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220317130032the-godfather-part-iii-5feb57605c64f.jpg" group-title="4K",,The Godfather: Part III (Mario Puzo's The Godfather Coda: The Death of Michael Corleone) เดอะ ก็อดฟาเธอร์ 3 (1990) บรรยายไทย 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/The_Godfather_Part_III_1990_4K/The_Godfather_Part_III_Mario_Puzo_s_The_Godfather_Coda_The_Death_of_Michael_Corleone_1990_4K_2160p_TrueHD_SDR_ST.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220317103814a-writers-odyssey-6217a88a3750c.jpg",A Writer's Odyssey (Ci sha xiao shuo jia) จอมยุทธ์ทะลุภพ (2021) 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220317103814a-writers-odyssey-6217a88a3750c.jpg" group-title="4K",,A Writer's Odyssey (Ci sha xiao shuo jia) จอมยุทธ์ทะลุภพ (2021) 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/A_Writer_s_Odyssey_2021_4K/A_Writer_s_Odyssey_2021_4K_2160p_DTS_HD_SDR_TH2.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20210703092338the-one-and-only-ivan-60666897b056d.jpg",The One and Only Ivan (2020) 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20210703092338the-one-and-only-ivan-60666897b056d.jpg" group-title="4K",,The One and Only Ivan (2020) 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/The_One_and_Only_Ivan_2020_4K/The_One_and_Only_Ivan_2020_4K_2160p_HDR.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220314093509spider-man-no-way-home-61a3f7e566e28.jpg",Spider-Man: No Way Home สไปเดอร์แมน: โน เวย์ โฮม (2021) 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220314093509spider-man-no-way-home-61a3f7e566e28.jpg" group-title="4K",,Spider-Man: No Way Home สไปเดอร์แมน: โน เวย์ โฮม (2021) 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/Spider_Man_No_Way_Home_2021_4K/Spider_Man_No_Way_Home_2021_4K_2160p_DTS_HD_SDR.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220315115741spy-55ea212ca0843.jpg",Spy สปาย (2015) 4K Ultra HD
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220315115741spy-55ea212ca0843.jpg" group-title="4K",,Spy สปาย (2015) 4K Ultra HD
 https://b1.inwstream.com:1936/FW_Blu-Ray/Spy_2015_4K/Spy_2015_4K_2160p_SDR.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220315091909images.jpg",Limbo สุดขอบ แดนความฝัน (2020) บรรยายไทย 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220315091909images.jpg" group-title="4K",,Limbo สุดขอบ แดนความฝัน (2020) บรรยายไทย 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/Limbo_2020_4K/Limbo_2020_4K_2160p_SDR_ST.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20210709090520timmy-failure-5e79b713222d6f.jpg",Timmy Failure: Mistakes Were Made (2020) 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20210709090520timmy-failure-5e79b713222d6f.jpg" group-title="4K",,Timmy Failure: Mistakes Were Made (2020) 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/Timmy_Failure_Mistakes_Were_Made_2020_4K/Timmy_Failure_Mistakes_Were_Made_2020_4K_2160p_HDR.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220312134230turning-red-61f2eb90293c2%20(1).jpg",Turning Red (2022) 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220312134230turning-red-61f2eb90293c2%20(1).jpg" group-title="4K",,Turning Red (2022) 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/Turning_Red_2022_4K/Turning_Red_2022_4K_2160p_SDR.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220311115939run--gun-62114869f2576.jpg",Run & Gun (The Ray) (2022) บรรยายไทย 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220311115939run--gun-62114869f2576.jpg" group-title="4K",,Run & Gun (The Ray) (2022) บรรยายไทย 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/Run_and_Gun_2022_4K/Run_and_Gun_2022_4K_2160p_SDR_ST.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20211205161044gYZAHan5CHPFXORpQMvOjCTug4E.jpg",Jolt สวย แรง สูง (2021) 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20211205161044gYZAHan5CHPFXORpQMvOjCTug4E.jpg" group-title="4K",,Jolt สวย แรง สูง (2021) 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/Jolt_2021_4K/Jolt_2021_4K_2160p_DTS_HD_SDR_TH2.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220119085726images.jpg",A Journal for Jordan (2021) บรรยายไทยมาสเตอร์ 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220119085726images.jpg" group-title="4K",,A Journal for Jordan (2021) บรรยายไทยมาสเตอร์ 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/A_Journal_for_Jordan_2021_4K/A_Journal_for_Jordan_2021_4K_2160p_SDR_ST.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220307112536downton-abbey-5da0d22a3677b.jpg",Downton Abbey ดาวน์ตัน แอบบีย์ เดอะ มูฟวี่ (2019) 4K 
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220307112536downton-abbey-5da0d22a3677b.jpg" group-title="4K",,Downton Abbey ดาวน์ตัน แอบบีย์ เดอะ มูฟวี่ (2019) 4K 
 https://b1.inwstream.com:1936/FW_Blu-Ray/Downton_Abbey_2019_4K/Downton_Abbey_2019_4K_2160p_DTS_HD_SDR_TH2.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220310110113The-Mad-Womens-Ball-2021.jpg",The Mad Women's Ball (Le bal des folles) งานเต้นรำของหญิงวิปลาส (2021) บรรยายไทย 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220310110113The-Mad-Womens-Ball-2021.jpg" group-title="4K",,The Mad Women's Ball (Le bal des folles) งานเต้นรำของหญิงวิปลาส (2021) บรรยายไทย 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/The_Mad_Women_s_Ball_2021_4K/The_Mad_Women_s_Ball_2021_4K_2160p.HDR_ST.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220310101909mghjgjg.jpg",The Weeknd x the Dawn FM Experience (2022) บรรยายไทย 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220310101909mghjgjg.jpg" group-title="4K",,The Weeknd x the Dawn FM Experience (2022) บรรยายไทย 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/The_Weeknd_x_The_Dawn_FM_Experience_2022_4K/The_Weeknd_x_The_Dawn_FM_Experience_2022_4K_2160p_HDR_ST.mkv?.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220309092213op8Y2onpv5RzsTBfWeUAVqZv7j4.jpeg",Promising Young Woman สาวซ่าส์ล่าบัญชีแค้น (2020) 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/Promising_Young_Woman_2020_4K/Promising_Young_Woman_2020_4K_2160p_HDR_TH2.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220306114742the-deer-hunter-55aa81212d5be.jpg",The Deer Hunter เดอะ เดียร์ฮันเตอร์ (1978) 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220306114742the-deer-hunter-55aa81212d5be.jpg" group-title="4K",,The Deer Hunter เดอะ เดียร์ฮันเตอร์ (1978) 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/The_Deer_Hunter_1978_4K/The_Deer_Hunter_1978_4K_2160p_DTS_HD_SDR.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220305123154oldboy-53e728f55d2a4.jpg",Oldboy (Oldeuboi) เคลียร์บัญชีแค้นจิตโหด (2003) 4K 
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220305123154oldboy-53e728f55d2a4.jpg" group-title="4K",,Oldboy (Oldeuboi) เคลียร์บัญชีแค้นจิตโหด (2003) 4K 
 https://b1.inwstream.com:1936/FW_Blu-Ray/Oldboy_2003_4K/Oldboy_2003_4K_2160p_DTS_HD_SDR.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220305105939blacklight-62050a560c859.jpg",Blacklight โคตรระห่ำ ล้างบางนรก (2022) บรรยายไทยแปล 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220305105939blacklight-62050a560c859.jpg" group-title="4K",,Blacklight โคตรระห่ำ ล้างบางนรก (2022) บรรยายไทยแปล 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/Blacklight_2022_4K/Blacklight_2022_4K_2160p_SDR_T.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20200411183303Kingsman%20The%20Secret%20Service%20%E0%B8%84%E0%B8%B4%E0%B8%87%E0%B8%AA%E0%B9%8C%E0%B9%81%E0%B8%A1%E0%B8%99%20%E0%B9%82%E0%B8%84%E0%B8%95%E0%B8%A3%E0%B8%9E%E0%B8%B4%E0%B8%97%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B9%8C%E0%B8%9A%E0%B9%88%E0%B8%A1%E0%B8%9E%E0%B8%A2%E0%B8%B1%E0%B8%84%E0%B8%86%E0%B9%8C%20(2014).jpg",Kingsman: The Secret Service คิงส์แมน โคตรพิทักษ์บ่มพยัคฆ์ (2014) 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20200411183303Kingsman%20The%20Secret%20Service%20%E0%B8%84%E0%B8%B4%E0%B8%87%E0%B8%AA%E0%B9%8C%E0%B9%81%E0%B8%A1%E0%B8%99%20%E0%B9%82%E0%B8%84%E0%B8%95%E0%B8%A3%E0%B8%9E%E0%B8%B4%E0%B8%97%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B9%8C%E0%B8%9A%E0%B9%88%E0%B8%A1%E0%B8%9E%E0%B8%A2%E0%B8%B1%E0%B8%84%E0%B8%86%E0%B9%8C%20(2014).jpg" group-title="4K",,Kingsman: The Secret Service คิงส์แมน โคตรพิทักษ์บ่มพยัคฆ์ (2014) 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/Kingsman_The_Secret_Service_2014_4K/Kingsman_The_Secret_Service_2014_4K_2160p_HDR.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20171214131003MV5BMjQ3OTgzMzY4NF5BMl5BanBnXkFtZTgwOTc4OTQyMzI@._V1_SY1000_CR0,0,675,1000_AL_.jpg",Kingsman: The Golden Circle คิงส์แมน รวมพลังโคตรพยัคฆ์ (2017) 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20171214131003MV5BMjQ3OTgzMzY4NF5BMl5BanBnXkFtZTgwOTc4OTQyMzI@._V1_SY1000_CR0,0,675,1000_AL_.jpg" group-title="4K",,Kingsman: The Golden Circle คิงส์แมน รวมพลังโคตรพยัคฆ์ (2017) 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/Kingsman_The_Golden_Circle_2017_4K/Kingsman_The_Golden_Circle_2017_4K_2160p_ATMOS_HDR.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220210081241kingsman-3-5d9275916ed78.jpg",The King's Man กำเนิดโคตรพยัคฆ์คิงส์แมน (2021) 4K 
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220210081241kingsman-3-5d9275916ed78.jpg" group-title="4K",,The King's Man กำเนิดโคตรพยัคฆ์คิงส์แมน (2021) 4K 
 https://b1.inwstream.com:1936/FW_Blu-Ray/The_King_s_Man_2021_4K/The_King_s_Man_2021_4K_2160p_DTS_HD_SDR.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220303091045west-side-story-61b9b6d8bd3c6.jpg",West Side Story เวสต์ ไซด์ สตอรี่ (2021) 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220303091045west-side-story-61b9b6d8bd3c6.jpg" group-title="4K",,West Side Story เวสต์ ไซด์ สตอรี่ (2021) 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/West_Side_Story_2021_4K/West_Side_Story_2021_4K_2160p_SDR_TH2.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220226150916a-few-good-men-56780de9c8d45.jpg",A Few Good Men เทพบุตรเกียรติยศ (1992) 4K 
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220226150916a-few-good-men-56780de9c8d45.jpg" group-title="4K",,A Few Good Men เทพบุตรเกียรติยศ (1992) 4K 
 https://b1.inwstream.com:1936/FW_Blu-Ray/A_Few_Good_Men_1992_4K/A_Few_Good_Men_1992_4K_2160p_DTS_HD_SDR.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220226111343escape-from-la-521e3efaa5893.jpg",Escape from L.A. แหกด่านนรก แอลเอ (1996) 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220226111343escape-from-la-521e3efaa5893.jpg" group-title="4K",,Escape from L.A. แหกด่านนรก แอลเอ (1996) 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/Escape_From_L_A_1996_4K/Escape_From_L_A_1996_4K_2160p_DTS_HD_HDR.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20210912123808the-hurt-locker-54c253a304b97.jpg",The Hurt Locker หน่วยระห่ำปลดล็อคระเบิดโลก (2008) 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20210912123808the-hurt-locker-54c253a304b97.jpg" group-title="4K",,The Hurt Locker หน่วยระห่ำปลดล็อคระเบิดโลก (2008) 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/The_Hurt_Locker_2008_4K/The_Hurt_Locker_2008_4K_2160p_ATMOS_HDR.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220305094330vbbvv%20bv.jpg",Lucy and Desi (2022) บรรยายไทย 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220305094330vbbvv%20bv.jpg" group-title="4K",,Lucy and Desi (2022) บรรยายไทย 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/Lucy_and_Desi_2022_4K/Lucy_and_Desi_2022_4K_2160p_HDR_ST.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220302103406A-Spark-Story-2021.jpg",A Spark Story (2021) 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220302103406A-Spark-Story-2021.jpg" group-title="4K",,A Spark Story (2021) 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/A_Spark_Story_2021_4K/A_Spark_Story_2021_4K_2160p_SDR.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220302100826butch-cassidy-and-the-sundance-kid-5885176932f81.jpg",Butch Cassidy and the Sundance Kid สองสิงห์ชาติไอ้เสือ (1969) 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220302100826butch-cassidy-and-the-sundance-kid-5885176932f81.jpg" group-title="4K",,Butch Cassidy and the Sundance Kid สองสิงห์ชาติไอ้เสือ (1969) 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/Butch_Cassidy_and_the_Sundance_Kid_1969_4K/Butch_Cassidy_and_the_Sundance_Kid_1969_4K_2160p_SDR.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220301071836red-rocket-61d23afccb76f.jpg",Red Rocket (2021) บรรยายไทยแปล 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220301071836red-rocket-61d23afccb76f.jpg" group-title="4K",,Red Rocket (2021) บรรยายไทยแปล 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/Red_Rocket_2021_4K/Red_Rocket_2021_4K_2160p_SDR_T.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/202202251415592858d639e548b5ec7a40708d228f20dd8d363dca00a4e9225335954e80df01e2._RI_V_TTW_.jpg",Desperate Riders วีรบุรุษคาวบอย (2022) บรรยายไทย 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/202202251415592858d639e548b5ec7a40708d228f20dd8d363dca00a4e9225335954e80df01e2._RI_V_TTW_.jpg" group-title="4K",,Desperate Riders วีรบุรุษคาวบอย (2022) บรรยายไทย 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/Desperate_Riders_2022_4K/Desperate_Riders_2022_4K_2160p_SDR_ST.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20211222160603images.jpg",Resident Evil: Welcome to Raccoon City ผีชีวะ: ปฐมบทแห่งเมืองผีดิบ (2021) 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20211222160603images.jpg" group-title="4K",,Resident Evil: Welcome to Raccoon City ผีชีวะ: ปฐมบทแห่งเมืองผีดิบ (2021) 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/Resident_Evil_Welcome_to_Raccoon_City_2021_4K/Resident_Evil_Welcome_to_Raccoon_City_2021_4K_2160p_DTS_HD_SDR.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20210823084811tBUYDwiJVDcnjPneOitVetJk2Rt.jpg",Settlers (2021) บรรยายไทย Exclusive 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20210823084811tBUYDwiJVDcnjPneOitVetJk2Rt.jpg" group-title="4K",,Settlers (2021) บรรยายไทย Exclusive 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/Settlers_2021_4K/Settlers_2021_4K_2160p_DTS_HD_SDR_FWTRANS.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220221092408images.jpg",Sex, Lies, and Videotape เซ็กซ์ ไลส์ แอนด์ วิดีโอเทป (1989) 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220221092408images.jpg" group-title="4K",,Sex, Lies, and Videotape เซ็กซ์ ไลส์ แอนด์ วิดีโอเทป (1989) 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/Sex_Lies_and_Videotape_1989_4K/Sex_Lies_and_Videotape_1989_4K_2160p_DTS_HD_SDR.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20211130183039monsters-of-man-5fe0692605c5e.jpg",Monsters of Man จักรกลพันธุ์เหี้ยม (2020) 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20211130183039monsters-of-man-5fe0692605c5e.jpg" group-title="4K",,Monsters of Man จักรกลพันธุ์เหี้ยม (2020) 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/Monsters_of_Man_2020_4K/Monsters_of_Man_2020_4K_2160p_DTS_HD_SDR.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220217075913klaus-5dcecca35ac89.jpg",Klaus มหัศจรรย์ตำนานคริสต์มาส (2019) 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220217075913klaus-5dcecca35ac89.jpg" group-title="4K",,Klaus มหัศจรรย์ตำนานคริสต์มาส (2019) 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/Klaus_2019_4K/Klaus_2019_4K_2160p_SDR.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220216133306xBdP9Z0oVAx25tM2gUOtq298jxR.jpg",Blue Miracle ปาฏิหาริย์สีน้ำเงิน (2021) 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220216133306xBdP9Z0oVAx25tM2gUOtq298jxR.jpg" group-title="4K",,Blue Miracle ปาฏิหาริย์สีน้ำเงิน (2021) 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/Blue_Miracle_2021_4K/Blue_Miracle_2021_4K_2160p_SDR.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220216124252green-room-56c3a836db066.jpg",Green Room ล็อค เชือด ร็อก (2015) 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220216124252green-room-56c3a836db066.jpg" group-title="4K",,Green Room ล็อค เชือด ร็อก (2015) 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/Green_Room_2015_4K/Green_Room_2015_4K_2160p_SDR.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220220151407minari-601db2d0f0e88.jpg",Minari มินาริ (2020) 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220220151407minari-601db2d0f0e88.jpg" group-title="4K",,Minari มินาริ (2020) 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/Minari_2020_4K/Minari_2020_4K_2160p_HDR.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220219090951Harry-Potter-20th-Anniversary-Return-to-Hogwarts-2022-1.jpg",Harry Potter 20th Anniversary: Return to Hogwarts ครบรอบ 20 ปีแฮร์รี่ พอตเตอร์: คืนสู่เหย้าฮอกวอตส์ (2022) บรรยายไทย 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220219090951Harry-Potter-20th-Anniversary-Return-to-Hogwarts-2022-1.jpg" group-title="4K",,Harry Potter 20th Anniversary: Return to Hogwarts ครบรอบ 20 ปีแฮร์รี่ พอตเตอร์: คืนสู่เหย้าฮอกวอตส์ (2022) บรรยายไทย 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/Harry_Potter_20th_Anniversary_Return_to_Hogwarts_2022_4K/Harry_Potter_20th_Anniversary_Return_to_Hogwarts_2022_4K_2160p_HDR_ST.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220218101727vanilla-sky-54ea510f67282.jpg",Vanilla Sky วานิลลา สกาย ปมรัก ปมมรณะ (2001) 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220218101727vanilla-sky-54ea510f67282.jpg" group-title="4K",,Vanilla Sky วานิลลา สกาย ปมรัก ปมมรณะ (2001) 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/Vanilla_Sky_2001_4K/Vanilla_Sky_2001_4K_2160p_HDR.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220216091200army-of-the-dead-60a09d8775947.jpg",Army of the Dead แผนปล้นซอมบี้เดือด (2021) 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220216091200army-of-the-dead-60a09d8775947.jpg" group-title="4K",,Army of the Dead แผนปล้นซอมบี้เดือด (2021) 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/Army_of_the_Dead_2021_4K/Army_of_the_Dead_2021_4K_2160p_SDR.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220215150429images.jpg",Blue Bayou บลู บายู (2021) บรรยายไทย 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220215150429images.jpg" group-title="4K",,Blue Bayou บลู บายู (2021) บรรยายไทย 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/Blue_Bayou_2021_4K/Blue_Bayou_2021_4K_2160p_DTS_HD_SDR_ST.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220214182106a-fall-from-grace-5e3f13ce30537.jpg",A Fall from Grace อะ ฟอล ฟรอม เกรซ (2020) บรรยายไทย 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220214182106a-fall-from-grace-5e3f13ce30537.jpg" group-title="4K",,A Fall from Grace อะ ฟอล ฟรอม เกรซ (2020) บรรยายไทย 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/A_Fall_from_Grace_2020_4K/A_Fall_from_Grace_2020_4K_2160p_SDR_ST.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220214180407all-the-bright-places-5e5aeab75141b.jpg",All the Bright Places แสงแห่งหวังที่ทุกฝั่งฟ้า (2020) บรรยายไทย 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220214180407all-the-bright-places-5e5aeab75141b.jpg" group-title="4K",,All the Bright Places แสงแห่งหวังที่ทุกฝั่งฟ้า (2020) บรรยายไทย 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/All_the_Bright_Places_2020_4K/All_the_Bright_Places_2020_4K_2160p_SDR_ST.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220214172809yCIsE1kzHGyVnU9OAPL9XQeTFmC.jpg",Alex Strangelove รักพิลึกพิลั่นของอเล็กซ์ (2018) บรรยายไทย 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220214172809yCIsE1kzHGyVnU9OAPL9XQeTFmC.jpg" group-title="4K",,Alex Strangelove รักพิลึกพิลั่นของอเล็กซ์ (2018) บรรยายไทย 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/Alex_Strangelove_2018_4K/Alex_Strangelove_2018_4K_2160p_SDR_ST.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220216093901awake-611b8dae3f523.jpg",Awake ดับฝันวันสิ้นโลก (2021) 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220216093901awake-611b8dae3f523.jpg" group-title="4K",,Awake ดับฝันวันสิ้นโลก (2021) 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/Awake_2021_4K/Awake_2021_4K_2160p_HDR.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220215111603images.jpg",Raging Fire ( Nou fo) โคตรเดือดฉะเดือด (2021) 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220215111603images.jpg" group-title="4K",,Raging Fire ( Nou fo) โคตรเดือดฉะเดือด (2021) 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/Raging_Fire_2021_4K/Raging_Fire_2021_4K_2160p_ATMOS_HDR_TH2.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220117100104rumble-61e14835730ab.jpg",Rumble มอนสเตอร์นักสู้ (2021) บรรยายไทยมาสเตอร์ 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220117100104rumble-61e14835730ab.jpg" group-title="4K",,Rumble มอนสเตอร์นักสู้ (2021) บรรยายไทยมาสเตอร์ 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/Rumble_2021_4K/Rumble_2021_4K_2160p_HDR_ST.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20200619091444all-the-bright-places-5e5aeab75141b.jpg",All the Bright Places แสงแห่งหวังที่ทุกฝั่งฟ้า (2020) บรรยายไทย 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20200619091444all-the-bright-places-5e5aeab75141b.jpg" group-title="4K",,All the Bright Places แสงแห่งหวังที่ทุกฝั่งฟ้า (2020) บรรยายไทย 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/All_the_Bright_Places_2020_4K/All_the_Bright_Places_2020_4K_2160p_HDR_ST_NEW.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220203093809house-of-gucci-61eefcc159835.jpg",House of Gucci เฮาส์ ออฟ กุชชี่ (2021) บรรยายไทยมาสเตอร์ 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220203093809house-of-gucci-61eefcc159835.jpg" group-title="4K",,House of Gucci เฮาส์ ออฟ กุชชี่ (2021) บรรยายไทยมาสเตอร์ 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/House_of_Gucci_2021_4K/House_of_Gucci_2021_4K_2160p_HDR_ST.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220212093701apex-61860c9ed340f.jpg",Apex ล่าคนอึดพลิกจักรวาล (2021) 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220212093701apex-61860c9ed340f.jpg" group-title="4K",,Apex ล่าคนอึดพลิกจักรวาล (2021) 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/Apex_2021_4K/Apex_2021_4K_2160p_SDR_TH2.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220213140324the-green-mile-55f5c549c1e48.jpg",The Green Mile ปาฏิหาริย์แดนประหาร (1999) 4K HDR
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220213140324the-green-mile-55f5c549c1e48.jpg" group-title="4K",,The Green Mile ปาฏิหาริย์แดนประหาร (1999) 4K HDR
 https://b1.inwstream.com:1936/FW_Blu-Ray/The_Green_Mile_1999_4K/The_Green_Mile_1999_4K_2160p_ATMOS_HDR.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20211225125916encanto-61c1f1f978f33.jpg",Encanto เมืองเวทมนตร์คนมหัศจรรย์ (2021) 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20211225125916encanto-61c1f1f978f33.jpg" group-title="4K",,Encanto เมืองเวทมนตร์คนมหัศจรรย์ (2021) 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/Encanto_2021_4K/Encanto_2021_4K_2160p_ATMOS_HDR.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20211227104429the-matrix-resurrections-61b1131cae0a2.jpg",The Matrix Resurrections เดอะ เมทริกซ์ เรเซอเร็คชั่นส์ (2021) 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20211227104429the-matrix-resurrections-61b1131cae0a2.jpg" group-title="4K",,The Matrix Resurrections เดอะ เมทริกซ์ เรเซอเร็คชั่นส์ (2021) 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/The_Matrix_Resurrections_2021_4K/The_Matrix_Resurrections_2021_4K_2160p_HDR.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220106094338ghostbusters-afterlife-61521b2d1069b3.jpg",Ghostbusters: Afterlife โกสต์บัสเตอร์: ปลุกพลังล่าท้าผี (2021) 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220106094338ghostbusters-afterlife-61521b2d1069b3.jpg" group-title="4K",,Ghostbusters: Afterlife โกสต์บัสเตอร์: ปลุกพลังล่าท้าผี (2021) 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/Ghostbusters_Afterlife_2021_4K/Ghostbusters_Afterlife_2021_4K_2160p_ATMOS_HDR.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20211216092118the-french-dispatch-61311316bd719.jpg",The French Dispatch ก๊วนข่าวหัวเห็ด (2021) 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20211216092118the-french-dispatch-61311316bd719.jpg" group-title="4K",,The French Dispatch ก๊วนข่าวหัวเห็ด (2021) 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/The_French_Dispatch_2021_4K/The_French_Dispatch_2021_4K_2160p_SDR.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220114093801eternals-6120c68dd7008.jpg",Eternals ฮีโร่พลังเทพเจ้า (2021) IMAX Version 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220114093801eternals-6120c68dd7008.jpg" group-title="4K",,Eternals ฮีโร่พลังเทพเจ้า (2021) IMAX Version 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/Eternals_2021_4K/Eternals_2021_4K_2160p_ATMOS_HDR_IMAX.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220127171855kktjgtjyt.jpg",Gold (2022) บรรยายไทยแปล 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220127171855kktjgtjyt.jpg" group-title="4K",,Gold (2022) บรรยายไทยแปล 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/Gold_2022_4K/Gold_2022_4K_2160p_HDR_T.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20211122192303last-night-in-soho-6157170141a4dc.jpg",Last Night in Soho ฝัน-หลอน-ที่โซโห (2021) บรรยายไทย 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20211122192303last-night-in-soho-6157170141a4dc.jpg" group-title="4K",,Last Night in Soho ฝัน-หลอน-ที่โซโห (2021) บรรยายไทย 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/Last_Night_in_Soho_2021_4K/Last_Night_in_Soho_2021_4K_2160p_ATMOS_HDR_ST.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20211104185724halloween-kills-60da6678c61f5.jpg",Halloween Kills ฮาโลวีนสังหาร (2021) 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20211104185724halloween-kills-60da6678c61f5.jpg" group-title="4K",,Halloween Kills ฮาโลวีนสังหาร (2021) 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/Halloween_Kills_2021_4K/Halloween_Kills_2021_4K_2160p_ATMOS_HDR_EXTENDED.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220125083538mobile-suit-gundam-hathaway-60d676c33f217.jpg",Mobile Suit Gundam: Hathaway โมบิลสูทกันดั้ม ฮาธาเวย์ส แฟลช (2021) 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220125083538mobile-suit-gundam-hathaway-60d676c33f217.jpg" group-title="4K",,Mobile Suit Gundam: Hathaway โมบิลสูทกันดั้ม ฮาธาเวย์ส แฟลช (2021) 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/Mobile_Suit_Gundam_Hathaway_2021_4K/Mobile_Suit_Gundam_Hathaway_2021_4K_2160p_ATMOS_HDR.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20211215081001antlers-5e7b1ac941404f.jpg",Antlers สิงร่างกระชากวิญญาณ (2021) 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20211215081001antlers-5e7b1ac941404f.jpg" group-title="4K",,Antlers สิงร่างกระชากวิญญาณ (2021) 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/Antlers_2021_4K/Antlers_2021_4K_2160p_HDR_TH2.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220117103548the-truman-show-54f8e07eb2dc7.jpg",The Truman Show ชีวิตมหัศจรรย์ ทรูแมนโชว์ (1998) 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220117103548the-truman-show-54f8e07eb2dc7.jpg" group-title="4K",,The Truman Show ชีวิตมหัศจรรย์ ทรูแมนโชว์ (1998) 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/The_Truman_Show_1998_4K/The_Truman_Show_1998_4K_2160p_HDR.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220117093419the-addams-family-2-61579840c3706.jpg",The Addams Family 2 ตระกูลนี้ผียังหลบ 2 (2021) 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220117093419the-addams-family-2-61579840c3706.jpg" group-title="4K",,The Addams Family 2 ตระกูลนี้ผียังหลบ 2 (2021) 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/The_Addams_Family_2_2021_4K/The_Addams_Family_2_2021_4K_2160p_HDR.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20191210152853pirates-of-the-caribbean-the-curse-of-the-black-pearl-5223e1a3cb029.jpg",Pirates of the Caribbean: The Curse of the Black Pearl คืนชีพกองทัพโจรสลัดสยองโลก (2003) 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20191210152853pirates-of-the-caribbean-the-curse-of-the-black-pearl-5223e1a3cb029.jpg" group-title="4K",,Pirates of the Caribbean: The Curse of the Black Pearl คืนชีพกองทัพโจรสลัดสยองโลก (2003) 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/Pirates_of_the_Caribbean_The_Curse_of_the_Black_Pearl_2003_4K/Pirates_of_the_Caribbean_The_Curse_of_the_Black_Pearl_2003_4K_2160p_ATMOS_HDR.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20200207143527pirates-of-the-caribbean-dead-mans-chest-52399d6b21ed6.jpg",Pirates of the Caribbean: Dead Man's Chest สงครามปีศาจโจรสลัดสยองโลก (2006) 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20200207143527pirates-of-the-caribbean-dead-mans-chest-52399d6b21ed6.jpg" group-title="4K",,Pirates of the Caribbean: Dead Man's Chest สงครามปีศาจโจรสลัดสยองโลก (2006) 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/Pirates_of_the_Caribbean_Dead_Man_s_Chest_2006_4K/Pirates_of_the_Caribbean_Dead_Man_s_Chest_2006_4K_2160p_ATMOS_HDR.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20200207175532pirates-of-the-caribbean-at-worlds-end-52399dc238e4f.jpg",Pirates of the Caribbean: At World's End ผจญภัยล่าโจรสลัดสุดขอบโลก (2007) 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20200207175532pirates-of-the-caribbean-at-worlds-end-52399dc238e4f.jpg" group-title="4K",,Pirates of the Caribbean: At World's End ผจญภัยล่าโจรสลัดสุดขอบโลก (2007) 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/Pirates_of_the_Caribbean_At_World_s_End_2007_4K/Pirates_of_the_Caribbean_At_World_s_End_2007_4K_2160p_ATMOS_HDR.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20200207175717pirates-of-the-caribbean-on-stranger-tides-5542757d50627.jpg",Pirates of the Caribbean: On Stranger Tides ผจญภัยล่าสายน้ำอมฤตสุดขอบโลก (2011)
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20200207175717pirates-of-the-caribbean-on-stranger-tides-5542757d50627.jpg" group-title="4K",,Pirates of the Caribbean: On Stranger Tides ผจญภัยล่าสายน้ำอมฤตสุดขอบโลก (2011)
 https://b1.inwstream.com:1936/FW_Blu-Ray/Pirates_of_the_Caribbean_On_Stranger_Tides_2011_4K/Pirates_of_the_Caribbean_On_Stranger_Tides_2011_4K_2160p_ATMOS_HDR.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220116135619pirates-of-the-caribbean-dead-men-tell-no-tales-59aef117475dc.jpg",Pirates of the Caribbean: Dead Men Tell No Tales สงครามแค้นโจรสลัดไร้ชีพ (2017) 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220116135619pirates-of-the-caribbean-dead-men-tell-no-tales-59aef117475dc.jpg" group-title="4K",,Pirates of the Caribbean: Dead Men Tell No Tales สงครามแค้นโจรสลัดไร้ชีพ (2017) 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/Pirates_of_the_Caribbean_Dead_Men_Tell_No_Tales_2017_4K/Pirates_of_the_Caribbean_Dead_Men_Tell_No_Tales_2017_4K_2160p_ATMOS_HDR.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220115144810Dear.Evan_.Hansen-DVD.Cover_.jpg",Dear Evan Hansen เดียร์ เอเว่น แฮนเซน (2021) บรรยายไทย 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220115144810Dear.Evan_.Hansen-DVD.Cover_.jpg" group-title="4K",,Dear Evan Hansen เดียร์ เอเว่น แฮนเซน (2021) บรรยายไทย 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/Dear_Evan_Hansen_2021_4K/Dear_Evan_Hansen_2021_4K_2160p_ATMOS_HDR_ST.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220114155712hotel-transylvania-4-60e957aca54f7.jpg",Hotel Transylvania: Transformania โรงแรมผีหนีไปพักร้อน: เปลี่ยนร่างไปป่วนโลก (2022) 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220114155712hotel-transylvania-4-60e957aca54f7.jpg" group-title="4K",,Hotel Transylvania: Transformania โรงแรมผีหนีไปพักร้อน: เปลี่ยนร่างไปป่วนโลก (2022) 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/Hotel_Transylvania_Transformania_2022_4K/Hotel_Transylvania_Transformania_2022_4K_2160p_HDR.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220113142258ayKRZejiarjY4R3UE1J1KlSYcyHk.jpg",Three Colors: Blue (Trois couleurs: Bleu) (1993) 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220113142258ayKRZejiarjY4R3UE1J1KlSYcyHk.jpg" group-title="4K",,Three Colors: Blue (Trois couleurs: Bleu) (1993) 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/Three_Colors_Blue_1993_4K/Three_Colors_Blue_1993_4K_2160p_DTS_HD_SDR.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220113141750three-colours-white-5a180693c048ae.jpg",Three Colors: White (Trois couleurs: Blanc) (1994) 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220113141750three-colours-white-5a180693c048ae.jpg" group-title="4K",,Three Colors: White (Trois couleurs: Blanc) (1994) 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/Three_Colors_White_1994_4K/Three_Colors_White_1994_4K_2160p_DTS_HD_SDR.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/202201131412045YIzZaQlwYJY5ZEqHRs9dG19DduB.jpg",Three Colors: Red (Trois couleurs: Rouge) (1994) 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/202201131412045YIzZaQlwYJY5ZEqHRs9dG19DduB.jpg" group-title="4K",,Three Colors: Red (Trois couleurs: Rouge) (1994) 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/Three_Colors_Red_1994_4K/Three_Colors_Red_1994_4K_2160p_DTS_HD_SDR.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220110084341477422-boogie.jpg",Boogie บูกี้ (2021) 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220110084341477422-boogie.jpg" group-title="4K",,Boogie บูกี้ (2021) 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/Boogie_2021_4K/Boogie_2021_4K_2160p_HDR.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20211110094124no-time-to-die-5de18b1e0c89d7.jpg",007 No Time to Die พยัคฆ์ร้ายฝ่าเวลามรณะ (2021) 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20211110094124no-time-to-die-5de18b1e0c89d7.jpg" group-title="4K",,007 No Time to Die พยัคฆ์ร้ายฝ่าเวลามรณะ (2021) 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/007_No_Time_to_Die_2021_4K/007_No_Time_to_Die_2021_4K_2160p_ATMOS_HDR.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20211201105543the-last-duel-617cf85487d60.jpg",The Last Duel ดวลชีวิต ลิขิตชะตา (2021) 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20211201105543the-last-duel-617cf85487d60.jpg" group-title="4K",,The Last Duel ดวลชีวิต ลิขิตชะตา (2021) 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/The_Last_Duel_2021_4K/The_Last_Duel_2021_4K_2160p_ATMOS_HDR_TH2.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20210912081615MV5BYTc0NWIwOTYtNzEwYi00YmUyLTlmYWYtYjJiZjRjN2RjMjAxXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_FMjpg_UX1000_.jpg",Malignant มาลิกแนนท์ ชั่วโคตรร้าย (2021) 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20210912081615MV5BYTc0NWIwOTYtNzEwYi00YmUyLTlmYWYtYjJiZjRjN2RjMjAxXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_FMjpg_UX1000_.jpg" group-title="4K",,Malignant มาลิกแนนท์ ชั่วโคตรร้าย (2021) 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/Malignant_2021_4K/Malignant_2021_4K_2160p_HDR.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220103091327romy-and-micheles-high-school-reunion-542af0ba81259.jpg",Romy and Michele's High School Reunion (1997) 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220103091327romy-and-micheles-high-school-reunion-542af0ba81259.jpg" group-title="4K",,Romy and Michele's High School Reunion (1997) 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/Romy_and_Michele_s_High_School_Reunion_1997_4K/Romy_and_Michele_s_High_School_Reunion_1997_4K_2160p_HDR.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20211216101056rons-gone-wrong-61abfa225e204.jpg",Ron's Gone Wrong รอน หุ่นเพี้ยนเพื่อนรัก (2021) บรรยายไทย 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20211216101056rons-gone-wrong-61abfa225e204.jpg" group-title="4K",,Ron's Gone Wrong รอน หุ่นเพี้ยนเพื่อนรัก (2021) บรรยายไทย 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/Ron_s_Gone_Wrong_2021_4K/Ron_s_Gone_Wrong_2021_4K_2160p_ATMOS_HDR_TH2.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20210629084219vvs-theiceroad-vod-2.jpg",The Ice Road (2021) บรรยายไทยแปล 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20210629084219vvs-theiceroad-vod-2.jpg" group-title="4K",,The Ice Road (2021) บรรยายไทยแปล 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/The_Ice_Road_2021_4K/The_Ice_Road_2021_4K_2160p_DTS_HD_HDR_T.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20211226110834nLanxl7Xhfbd5s8FxPy8jWZw4rv.jpg",The Stronghold (BAC Nord) ตำรวจเหล็กมาร์แซย์ (2020) บรรยายไทย 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20211226110834nLanxl7Xhfbd5s8FxPy8jWZw4rv.jpg" group-title="4K",,The Stronghold (BAC Nord) ตำรวจเหล็กมาร์แซย์ (2020) บรรยายไทย 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/The_Stronghold_2020_4K/The_Stronghold_2020_4K_2160p_DTS_HD_HDR_ST.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20211226102727the-power-of-the-dog-61a791688207f.jpg",The Power of the Dog (2021) 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20211226102727the-power-of-the-dog-61a791688207f.jpg" group-title="4K",,The Power of the Dog (2021) 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/The_Power_of_the_Dog_2021_4K/The_Power_of_the_Dog_2021_4K_2160p_HDR.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20211226101207images.jpg",Don't Look Up (2021) 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20211226101207images.jpg" group-title="4K",,Don't Look Up (2021) 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/Don_t_Look_Up_2021_4K/Don_t_Look_Up_2021_4K_2160p_HDR.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20211029083354the-many-saints-of-newark-6102cff664ad3.jpg",The Many Saints of Newark (2021) บรรยายไทย 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20211029083354the-many-saints-of-newark-6102cff664ad3.jpg" group-title="4K",,The Many Saints of Newark (2021) บรรยายไทย 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/The_Many_Saints_of_Newark_2021_4K/The_Many_Saints_of_Newark_2021_4K_2160p_ATMOS_HDR_ST.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20211224113208the-eyes-of-tammy-faye-618155d3c8994.jpg",The Eyes of Tammy Faye (2021) บรรยายไทย 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20211224113208the-eyes-of-tammy-faye-618155d3c8994.jpg" group-title="4K",,The Eyes of Tammy Faye (2021) บรรยายไทย 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/The_Eyes_of_Tammy_Faye_2021_4K/The_Eyes_of_Tammy_Faye_2021_4K_2160p_DTS_HD_HDR_ST.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20211223172426the-mauritanian-6047475b1310b.jpg",The Mauritanian มอริทาเนียน: พลิกคดี จองจำอำมหิต (2021) บรรยายไทยแปล 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20211223172426the-mauritanian-6047475b1310b.jpg" group-title="4K",,The Mauritanian มอริทาเนียน: พลิกคดี จองจำอำมหิต (2021) บรรยายไทยแปล 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/The_Mauritanian_2021_4K/The_Mauritanian_2021_4K_2160p_DTS_HD_HDR_T.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20210424071156chaos-walking-603b76a85f756.jpg",Chaos Walking จิตปฏิวัติโลก (2021) 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20210424071156chaos-walking-603b76a85f756.jpg" group-title="4K",,Chaos Walking จิตปฏิวัติโลก (2021) 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/Chaos_Walking_2021_4K/Chaos_Walking_2021_4K_2160p_ATMOS_HDR_TH2.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20210530110626the-unholy-606205881542c7.jpg",The Unholy เทวาอาถรรพ์ (2021) 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20210530110626the-unholy-606205881542c7.jpg" group-title="4K",,The Unholy เทวาอาถรรพ์ (2021) 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray//The_Unholy_2021_4K/The_Unholy_2021_4K_2160p_HDR.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20211218190338the-captain-5cd67cb1cd551.jpg",The Captain (Der Hauptmann) (2017) บรรยายไทยแปล 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20211218190338the-captain-5cd67cb1cd551.jpg" group-title="4K",,The Captain (Der Hauptmann) (2017) บรรยายไทยแปล 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/The_Captain_2017_4K/The_Captain_2017_4K_2160p_DTS_HD_HDR_T.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20211218091122images.jpg",Swan Song (2021) บรรยายไทย 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20211218091122images.jpg" group-title="4K",,Swan Song (2021) บรรยายไทย 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/Swan_Song_2021_4K/Swan_Song_2021_4K_2160p_HDR_ST.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20210801083133jungle-cruise-60f81edb1cf25a.jpg",Jungle Cruise ผจญภัยล่องป่ามหัศจรรย์ (2021) 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20210801083133jungle-cruise-60f81edb1cf25a.jpg" group-title="4K",,Jungle Cruise ผจญภัยล่องป่ามหัศจรรย์ (2021) 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/Jungle_Cruise_2021_4K/Jungle_Cruise_2021_4K_2160p_ATMOS_HDR.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20211215095058drive-52e3919a24da7.jpg",Drive ขับดิบ ขับเดือด ขับดุ (2011) 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20211215095058drive-52e3919a24da7.jpg" group-title="4K",,Drive ขับดิบ ขับเดือด ขับดุ (2011) 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/Drive_2011_4K/Drive_2011_4K_2160p_DTS_HD_HDR.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20211214114749the-art-of-racing-in-the-rain-5deeb86911833.jpg",The Art of Racing in the Rain อุ่นไอหัวใจตูบ (2019) 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20211214114749the-art-of-racing-in-the-rain-5deeb86911833.jpg" group-title="4K",,The Art of Racing in the Rain อุ่นไอหัวใจตูบ (2019) 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/The_Art_of_Racing_in_the_Rain_2019_4K/The_Art_of_Racing_in_the_Rain_2019_4K_2160p_DTS_HD_HDR_TH2.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20211214085947the-wolf-of-wall-street-52a38085694bd.jpg",The Wolf of Wall Street คนจะรวย ช่วยไม่ได้ (2013) 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20211214085947the-wolf-of-wall-street-52a38085694bd.jpg" group-title="4K",,The Wolf of Wall Street คนจะรวย ช่วยไม่ได้ (2013) 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/The_Wolf_of_Wall_Street_2013_4K/The_Wolf_of_Wall_Street_2013_4K_2160p_DTS_HD_HDR.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20210929090053free-guy-5fcc1aaddc71b.jpg",Free Guy ขอสักทีพี่จะเป็นฮีโร่ (2021) 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20210929090053free-guy-5fcc1aaddc71b.jpg" group-title="4K",,Free Guy ขอสักทีพี่จะเป็นฮีโร่ (2021) 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/Free_Guy_2021_4K/Free_Guy_2021_4K_2160p_ATMOS_HDR.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20211214091059the-last-son-of-isaac-lemay-61b351bf7aafed.jpg",The Last Son (2021) บรรยายไทยแปล 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20211214091059the-last-son-of-isaac-lemay-61b351bf7aafed.jpg" group-title="4K",,The Last Son (2021) บรรยายไทยแปล 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/The_Last_Son_2021_4K/The_Last_Son_2021_4K_2160p_SDR_T.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20191212094253the-muppet-christmas-carol-54624b1aaa676.jpg",The Muppet Christmas Carol (1992) 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20191212094253the-muppet-christmas-carol-54624b1aaa676.jpg" group-title="4K",,The Muppet Christmas Carol (1992) 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/The_Muppet_Christmas_Carol_1992_4K/The_Muppet_Christmas_Carol_1992_4K_2160p_HDR.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20211023081405dune-6120bd92ee626.jpg",Dune ดูน (2021) 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20211023081405dune-6120bd92ee626.jpg" group-title="4K",,Dune ดูน (2021) 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/Dune_2021_4K/Dune_2021_4K_2160p_ATMOS_HDR.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20211212084316fjfjhrfh.jpg",Snoopy Presents: For Auld Lang Syne (2021) บรรยายไทย 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20211212084316fjfjhrfh.jpg" group-title="4K",,Snoopy Presents: For Auld Lang Syne (2021) บรรยายไทย 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/Snoopy_Presents_For_Auld_Lang_Syne_2021_4K/Snoopy_Presents_For_Auld_Lang_Syne_2021_4K_2160p_HDR_ST.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20211211172736hard-target-52dc55acd01c5.jpg",Hard Target คนแกร่งทะลวงเดี่ยว (1993) 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20211211172736hard-target-52dc55acd01c5.jpg" group-title="4K",,Hard Target คนแกร่งทะลวงเดี่ยว (1993) 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/Hard_Target_1993_4K/Hard_Target_1993_4K_2160p_DTS_HD_HDR.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20211211101042tinker-tailor-soldier-spy-5212de1f77b57.jpg",Tinker Tailor Soldier Spy ถอดรหัสสายลับพันหน้า (2011) 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20211211101042tinker-tailor-soldier-spy-5212de1f77b57.jpg" group-title="4K",,Tinker Tailor Soldier Spy ถอดรหัสสายลับพันหน้า (2011) 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/Tinker_Tailor_Soldier_Spy_2011_4K/Tinker_Tailor_Soldier_Spy_2011_4K_2160p_DTS_HD_HDR.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20211211092620poster-780%20(1).jpg",The Unforgivable ตราบาป (2021) 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20211211092620poster-780%20(1).jpg" group-title="4K",,The Unforgivable ตราบาป (2021) 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/The_Unforgivable_2021_4K/The_Unforgivable_2021_4K_2160p_HDR.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20211210161812images.jpg",Encounter (2021) บรรยายไทย 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20211210161812images.jpg" group-title="4K",,Encounter (2021) บรรยายไทย 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/Encounter_2021_4K/Encounter_2021_4K_2160p_HDR_ST.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20210909090908escape-room-2-60fb1e1a10d93f.jpg",Escape Room: Tournament of Champions กักห้อง เกมโหด 2: กลับสู่เกมสยอง (2021) 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20210909090908escape-room-2-60fb1e1a10d93f.jpg" group-title="4K",,Escape Room: Tournament of Champions กักห้อง เกมโหด 2: กลับสู่เกมสยอง (2021) 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/Escape_Room_Tournament_of_Champions_2021_4K/Escape_Room_Tournament_of_Champions_2021_4K_2160p_HDR.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20211208093259aVP45oS2cBL4WtZ1kB7r8uarruB.jpg",A River Runs Through It สายน้ำลูกผู้ชาย (1992) บรรยายไทย 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20211208093259aVP45oS2cBL4WtZ1kB7r8uarruB.jpg" group-title="4K",,A River Runs Through It สายน้ำลูกผู้ชาย (1992) บรรยายไทย 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/A_River_Runs_Through_It_1992_4K/A_River_Runs_Through_It_1992_4K_2160p_DTS_HD_SDR_ST.mkv?.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20211207164351Exclusive-This-Games-Called-Murder-Poster-Clip-Starring-Ron-Perlman.jpeg",This Game's Called Murder (2021) บรรยายไทยแปล 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/This_Game_s_Called_Murder_2021_4K/This_Game_s_Called_Murder_2021_4K_2160p_SDR_T.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20211205112739912NRBugqWL.jpg",The Firm องค์กรซ่อนเงื่อน (1993) 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20211205112739912NRBugqWL.jpg" group-title="4K",,The Firm องค์กรซ่อนเงื่อน (1993) 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/The_Firm_1993_4K/The_Firm_1993_4K_2160p_HDR.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20211205083710horizon-line-282337.jpg",Horizon Line นรก..เหินเวหา (2020) 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20211205083710horizon-line-282337.jpg" group-title="4K",,Horizon Line นรก..เหินเวหา (2020) 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/Horizon_Line_2020_4K/Horizon_Line_2020_4K_2160p_HDR_TH2.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20210528081203wrath-of-man-606077c7a9f27.jpg",Wrath of Man คนคลั่งแค้น ปล้นผ่านรก (2021) 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20210528081203wrath-of-man-606077c7a9f27.jpg" group-title="4K",,Wrath of Man คนคลั่งแค้น ปล้นผ่านรก (2021) 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/Wrath_of_Man_2021_4K/Wrath_of_Man_2021_4K_2160p_DTS_HD_HDR_1.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20211204095015813QTbk169lL.jpg",Diary of a Wimpy Kid (2021) 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20211204095015813QTbk169lL.jpg" group-title="4K",,Diary of a Wimpy Kid (2021) 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/Diary_of_a_Wimpy_Kid_2021_4K/Diary_of_a_Wimpy_Kid_2021_4K_2160p_HDR_TH2.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20211204074537mariahs-christmas-the-magic-continues.227414.jpg",Mariah's Christmas: The Magic Continues (2021) บรรยายไทย 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20211204074537mariahs-christmas-the-magic-continues.227414.jpg" group-title="4K",,Mariah's Christmas: The Magic Continues (2021) บรรยายไทย 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/Mariah_s_Christmas_The_Magic_Montinues_2021_4K/Mariah_s_Christmas_The_Magic_Montinues_2021_4K_2160p_HDR_ST.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20211203103259red-notice-617857a07c6d3.jpg",Red Notice (2021) 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20211203103259red-notice-617857a07c6d3.jpg" group-title="4K",,Red Notice (2021) 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/Red_Notice_2021_4K/Red_Notice_2021_4K_2160p_HDR.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20211203101709the-guilty-61589670dd2a7.jpg",The Guilty (2021) 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20211203101709the-guilty-61589670dd2a7.jpg" group-title="4K",,The Guilty (2021) 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/The_Guilty_2021_4K/The_Guilty_2021_4K_2160p_HDR.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20211203094032the-night-house-61625feff240d.jpg",The Night House (2020) 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20211203094032the-night-house-61625feff240d.jpg" group-title="4K",,The Night House (2020) 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/The_Night_House_2021_4K/The_Night_House_2021_4K_2160p_HDR_TH2.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/202108120838059HfQD60w61f6PPkfdiI6ipJSw0bD.jpg",Joe Bell (2020) บรรยายไทยมาสเตอร์ 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/202108120838059HfQD60w61f6PPkfdiI6ipJSw0bD.jpg" group-title="4K",,Joe Bell (2020) บรรยายไทยมาสเตอร์ 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/Joe_Bell_2021_4K/Joe_Bell_2021_4K_2160p_HDR_ST.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20210917095939candyman-5e553f1k9445ec.jpg",Candyman แคนดี้แมน (2021) 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20210917095939candyman-5e553f1k9445ec.jpg" group-title="4K",,Candyman แคนดี้แมน (2021) 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/Candyman_2021_4K/Candyman_2021_4K_2160p_ATMOS_HDR.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20211127115551the-addams-family-56c0d2b4d1cff.jpg",The Addams Family อาดัมส์ แฟมิลี่ ตระกูลนี้ผียังหลบ (1991) 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20211127115551the-addams-family-56c0d2b4d1cff.jpg" group-title="4K",,The Addams Family อาดัมส์ แฟมิลี่ ตระกูลนี้ผียังหลบ (1991) 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/The_Addams_Family_1991_4K/The_Addams_Family_1991_4K_2160p_DTS_HD_HDR.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/202111270954588-bit-christmas-619e81d8a74bd.jpg",8-Bit Christmas (2021) บรรยายไทย 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/202111270954588-bit-christmas-619e81d8a74bd.jpg" group-title="4K",,8-Bit Christmas (2021) บรรยายไทย 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/8_Bit_Christmas_2021_4K/8_Bit_Christmas_2021_4K_2160p_HDR_ST.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20211126155923yrdfuj.jpg",The Fight Before Christmas (2021) บรรยายไทย 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20211126155923yrdfuj.jpg" group-title="4K",,The Fight Before Christmas (2021) บรรยายไทย 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/The_Fight_Before_Christmas_2021_4K/The_Fight_Before_Christmas_2021_4K_2160p_HDR_ST.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20200206093423uncut-gems-5de15b2539b04.jpg",Uncut Gems เพชรซ่อนเหลี่ยม (2019) บรรยายไทย 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20200206093423uncut-gems-5de15b2539b04.jpg" group-title="4K",,Uncut Gems เพชรซ่อนเหลี่ยม (2019) บรรยายไทย 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/Uncut_Gems_2019_4K/Uncut_Gems_2019_4K_2160p_ATMOS_HDR_ST.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20211126094327MV5BMjAwZWM1YmItNDk5Mi00YTQ4LWJjMzEtZGVlNDQ0MWU0MGE5XkEyXkFqcGdeQXVyMTAyMjQ3NzQ1._V1_FMjpg_UX1000_.jpg",Becoming Cousteau (2021) บรรยายไทย 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20211126094327MV5BMjAwZWM1YmItNDk5Mi00YTQ4LWJjMzEtZGVlNDQ0MWU0MGE5XkEyXkFqcGdeQXVyMTAyMjQ3NzQ1._V1_FMjpg_UX1000_.jpg" group-title="4K",,Becoming Cousteau (2021) บรรยายไทย 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/Becoming_Cousteau_2021_4K/Becoming_Cousteau_2021_4K_2160p_HDR_ST.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20211203095407theres-someone-inside-your-house-616d20dfb4a0c.jpg",There's Someone Inside Your House ใครอยู่ในบ้าน (2021) 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20211203095407theres-someone-inside-your-house-616d20dfb4a0c.jpg" group-title="4K",,There's Someone Inside Your House ใครอยู่ในบ้าน (2021) 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/There_s_Someone_Inside_Your_House_2021_4K/There_s_Someone_Inside_Your_House_2021_4K_2160p_SDR.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20200306095733the-black-cauldron-55147167103a0.jpg",The Black Cauldron เดอะ แบล็ค คอลดรอน (1985) 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20200306095733the-black-cauldron-55147167103a0.jpg" group-title="4K",,The Black Cauldron เดอะ แบล็ค คอลดรอน (1985) 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/The_Black_Cauldron_1985_4K/The_Black_Cauldron_1985_4K_2160p_HDR.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20211122191841bridget-joness-diary-5ce47c146d30e.jpg",Bridget Jones's Diary บริดเจต โจนส์ ไดอารี่ บันทึกรักพลิกล็อค (2001) 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20211122191841bridget-joness-diary-5ce47c146d30e.jpg" group-title="4K",,Bridget Jones's Diary บริดเจต โจนส์ ไดอารี่ บันทึกรักพลิกล็อค (2001) 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/Bridget_Jones_s_Diary_2001_4K/Bridget_Jones_s_Diary_2001_4K_2160p_DTS_HD_HDR.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20211122112823the-bfg-5834813ed7e31.jpg",The BFG ยักษ์ใหญ่หัวใจหล่อ (2016) 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20211122112823the-bfg-5834813ed7e31.jpg" group-title="4K",,The BFG ยักษ์ใหญ่หัวใจหล่อ (2016) 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/The_BFG_2016_4K/The_BFG_2016_4K_2160p_ATMOS_HDR.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20211121101340final-fantasy-the-spirits-within-5535625c3670c.jpg",Final Fantasy: The Spirits Within ไฟนอล แฟนตาซี: เดอะ สปิริท วิทธิน (2001) 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20211121101340final-fantasy-the-spirits-within-5535625c3670c.jpg" group-title="4K",,Final Fantasy: The Spirits Within ไฟนอล แฟนตาซี: เดอะ สปิริท วิทธิน (2001) 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/Final_Fantasy_The_Spirits_Within_2001_4K/Final_Fantasy_The_Spirits_Within_2001_4K_2160p_ATMOS_HDR.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20210807082319the-suicide-squad-606be4b1f0936.jpg",The Suicide Squad เดอะ ซุยไซด์ สควอด (2021) 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20210807082319the-suicide-squad-606be4b1f0936.jpg" group-title="4K",,The Suicide Squad เดอะ ซุยไซด์ สควอด (2021) 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/The_Suicide_Squad_2021_4K/The_Suicide_Squad_2021_4K_2160p_ATMOS_HDR.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20211117170414mulholland-dr-595c9e009049a.jpg",Mulholland Drive ปริศนาแห่งฝัน (2001) 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20211117170414mulholland-dr-595c9e009049a.jpg" group-title="4K",,Mulholland Drive ปริศนาแห่งฝัน (2001) 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/Mulholland_Drive_2001_4K/Mulholland_Drive_2001_4K_2160p_DTS_HD_HDR.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20211116175242shang-chi-and-the-legend-of-the-ten-rings-61512c06413bb.jpg",Shang-Chi and the Legend of the Ten Rings ชาง-ชี กับตำนานลับเท็นริงส์ (2021) IMAX Version 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20211116175242shang-chi-and-the-legend-of-the-ten-rings-61512c06413bb.jpg" group-title="4K",,Shang-Chi and the Legend of the Ten Rings ชาง-ชี กับตำนานลับเท็นริงส์ (2021) IMAX Version 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/Shang_Chi_and_the_Legend_of_the_Ten_Rings_2021_4K/Shang_Chi_and_the_Legend_of_the_Ten_Rings_2021_4K_2160p_ATMOS_HDR_IMAX.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20211116174952black-widow-60e82116f2022.jpg",Black Widow แบล็ค วิโดว์ (2021) IMAX Version 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20211116174952black-widow-60e82116f2022.jpg" group-title="4K",,Black Widow แบล็ค วิโดว์ (2021) IMAX Version 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/Black_Widow_2021_4K/Black_Widow_2021_4K_2160p_ATMOS_HDR_IMAX.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20211116174526captain-marvel-5c38a6164cce1.jpg",Captain Marvel กัปตันมาร์เวล (2019) IMAX Version 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20211116174526captain-marvel-5c38a6164cce1.jpg" group-title="4K",,Captain Marvel กัปตันมาร์เวล (2019) IMAX Version 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/Captain_Marvel_2019_4K/Captain_Marvel_2019_4K_2160p_ATMOS_HDR_IMAX.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20211116174154avengers-endgame-5c979eea07342.jpg",Avengers: Endgame อเวนเจอร์ส: เผด็จศึก (2019) IMAX Version 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20211116174154avengers-endgame-5c979eea07342.jpg" group-title="4K",,Avengers: Endgame อเวนเจอร์ส: เผด็จศึก (2019) IMAX Version 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/Avengers_Endgame_2019_4K/Avengers_Endgame_2019_4K_2160p_ATMOS_HDR_IMAX.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20211116173627ant-man-and-the-wasp-5b222195eb604.jpg",Ant-Man and the Wasp แอนท์-แมน และ เดอะ วอสพ์ (2018) IMAX Version 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20211116173627ant-man-and-the-wasp-5b222195eb604.jpg" group-title="4K",,Ant-Man and the Wasp แอนท์-แมน และ เดอะ วอสพ์ (2018) IMAX Version 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/Ant_Man_and_the_Wasp_2018_4K/Ant_Man_and_the_Wasp_2018_4K_2160p_ATMOS_HDR_IMAX.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20211116173223avengers-infinity-war---part-i-5aafe9547b9b5.jpg",Avengers: Infinity War อเวนเจอร์ส: มหาสงครามล้างจักรวาล (2018) IMAX Version 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20211116173223avengers-infinity-war---part-i-5aafe9547b9b5.jpg" group-title="4K",,Avengers: Infinity War อเวนเจอร์ส: มหาสงครามล้างจักรวาล (2018) IMAX Version 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/Avengers_Infinity_War_2018_4K/Avengers_Infinity_War_2018_4K_2160p_ATMOS_HDR_IMAX.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20211116172113black-panther-59fd737d65ae3.jpg",Black Panther แบล็ค แพนเธอร์ (2018) IMAX Version 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20211116172113black-panther-59fd737d65ae3.jpg" group-title="4K",,Black Panther แบล็ค แพนเธอร์ (2018) IMAX Version 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/Black_Panther_2018_4K/Black_Panther_2018_4K_2160p_ATMOS_HDR_IMAX.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20211116171452guardians-of-the-galaxy-2-58ba19df58b78.jpg",Guardians of the Galaxy Vol. 2 รวมพันธุ์นักสู้พิทักษ์จักรวาล 2 (2017) IMAX Version 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20211116171452guardians-of-the-galaxy-2-58ba19df58b78.jpg" group-title="4K",,Guardians of the Galaxy Vol. 2 รวมพันธุ์นักสู้พิทักษ์จักรวาล 2 (2017) IMAX Version 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/Guardians_of_the_Galaxy_Vol_2_2017_4K/Guardians_of_the_Galaxy_Vol_2_2017_4K_2160p_ATMOS_HDR_IMAX.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20211116171134thor-ragnarok-5a07647604e39.jpg",Thor: Ragnarok ธอร์: ศึกอวสานเทพเจ้า (2017) IMAX Version 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20211116171134thor-ragnarok-5a07647604e39.jpg" group-title="4K",,Thor: Ragnarok ธอร์: ศึกอวสานเทพเจ้า (2017) IMAX Version 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/Thor_Ragnarok_2017_4K/Thor_Ragnarok_2017_4K_2160p_ATMOS_HDR_IMAX.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20211116170731doctor-strange-5ced3dcc04f67.jpg",Doctor Strange ด็อกเตอร์ สเตรนจ์ จอมเวทย์มหากาฬ (2016) IMAX Version 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20211116170731doctor-strange-5ced3dcc04f67.jpg" group-title="4K",,Doctor Strange ด็อกเตอร์ สเตรนจ์ จอมเวทย์มหากาฬ (2016) IMAX Version 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/Doctor_Strange_2016_4K/Doctor_Strange_2016_4K_2160p_ATMOS_HDR_IMAX.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20211116165801captain-america-3-civil-war-56f18cf070970.jpg",Captain America: Civil War กัปตันอเมริกา: ศึกฮีโร่ระห่ำโลก (2016) IMAX Version 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20211116165801captain-america-3-civil-war-56f18cf070970.jpg" group-title="4K",,Captain America: Civil War กัปตันอเมริกา: ศึกฮีโร่ระห่ำโลก (2016) IMAX Version 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/Captain_America_Civil_War_2016_4K/Captain_America_Civil_War_2016_4K_2160p_ATMOS_HDR_IMAX.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20211116165117guardians-of-the-galaxy-537f5f8d0211a.jpg",Guardians of the Galaxy รวมพันธุ์นักสู้พิทักษ์จักรวาล (2014) IMAX Version 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20211116165117guardians-of-the-galaxy-537f5f8d0211a.jpg" group-title="4K",,Guardians of the Galaxy รวมพันธุ์นักสู้พิทักษ์จักรวาล (2014) IMAX Version 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/Guardians_of_the_Galaxy_2014_4K/Guardians_of_the_Galaxy_2014_4K_2160p_ATMOS_HDR_IMAX.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20211116164230iron-man-5237877c9fbd4.jpg",Iron Man ไอรอนแมน มหาประลัย คน เกราะเหล็ก (2008) IMAX Version 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20211116164230iron-man-5237877c9fbd4.jpg" group-title="4K",,Iron Man ไอรอนแมน มหาประลัย คน เกราะเหล็ก (2008) IMAX Version 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/Iron_Man_2008_4K/Iron_Man_2008_4K_2160p_ATMOS_HDR_IMAX.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20211115112636rocky-56eec85828673.jpg",Rocky ร็อคกี้ (1976) 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20211115112636rocky-56eec85828673.jpg" group-title="4K",,Rocky ร็อคกี้ (1976) 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/Rocky_1976_4K/Rocky_1976_4K_2160p_HDR.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20211115112045rocky-ii-56eec722ba454.jpg",Rocky II ร็อคกี้ 2 (1979) Blu-ray
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20211115112045rocky-ii-56eec722ba454.jpg" group-title="4K",,Rocky II ร็อคกี้ 2 (1979) Blu-ray
 https://b1.inwstream.com:1936/FW_Blu-Ray/Rocky_II_1979/Rocky_II_1979_Bluray_1080p_DTS_HD.mp4?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20211115111850rocky-iii-56eec5a2dcc49.jpg",Rocky III ร็อคกี้ 3 กระชากมงกุฏ (1982) Blu-ray
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20211115111850rocky-iii-56eec5a2dcc49.jpg" group-title="4K",,Rocky III ร็อคกี้ 3 กระชากมงกุฏ (1982) Blu-ray
 https://b1.inwstream.com:1936/FW_Blu-Ray/Rocky_III_1982/Rocky_III_1982_Bluray_1080p_DTS_HD.mp4?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20211115111635rocky-iv-56eec48a29f0e.jpg",Rocky IV ร็อคกี้ 4 ราชากำปั้น ทุบสังเวียน (1985) Blu-ray
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20211115111635rocky-iv-56eec48a29f0e.jpg" group-title="4K",,Rocky IV ร็อคกี้ 4 ราชากำปั้น ทุบสังเวียน (1985) Blu-ray
 https://b1.inwstream.com:1936/FW_Blu-Ray/Rocky_IV_1985/Rocky_IV_1985_Bluray_1080p_DTS_HD.mp4?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20211115111325rocky-v-56eec31b61682.jpg",Rocky V ร็อคกี้ 5 หัวใจไม่ยอมสยบ (1990) Blu-ray
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20211115111325rocky-v-56eec31b61682.jpg" group-title="4K",,Rocky V ร็อคกี้ 5 หัวใจไม่ยอมสยบ (1990) Blu-ray
 https://b1.inwstream.com:1936/FW_Blu-Ray/Rocky_V_1990/Rocky_V_1990_Bluray_1080p_DTS_HD.mp4?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20191231142108mad-max-55fac63a3a5da.jpg",Mad Max แมดแม็กซ์ (1979) 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20191231142108mad-max-55fac63a3a5da.jpg" group-title="4K",,Mad Max แมดแม็กซ์ (1979) 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/Mad_Max_1979_4K/Mad_Max_1979_4K_2160p_DTS_HD_HDR.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20211112161023mad-max-2-the-road-warrior-55fac64f8a386.jpg",Mad Max 2: The Road Warrior แมดแม็กซ์ 2 (1981) 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20211112161023mad-max-2-the-road-warrior-55fac64f8a386.jpg" group-title="4K",,Mad Max 2: The Road Warrior แมดแม็กซ์ 2 (1981) 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/Mad_Max_2_The_Road_Warrior_1981_4K/Mad_Max_2_The_Road_Warrior_1981_4K_2160p_ATMOS_HDR.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20211113203530mad-max-beyond-thunderdome-55fac669d43b5.jpg",Mad Max Beyond Thunderdome แมดแม็กซ์ 3: โดมบันลือโลก (1985) 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20211113203530mad-max-beyond-thunderdome-55fac669d43b5.jpg" group-title="4K",,Mad Max Beyond Thunderdome แมดแม็กซ์ 3: โดมบันลือโลก (1985) 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/Mad_Max_3_Beyond_Thunderdome_1985_4K/Mad_Max_3_Beyond_Thunderdome_1985_4K_2160p_ATMOS_HDR.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20191229165847mad-max-fury-road-56279344bc4e3.jpg",Mad Max: Fury Road แมดแม็กซ์ ถนนโลกันตร์ (2015) 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20191229165847mad-max-fury-road-56279344bc4e3.jpg" group-title="4K",,Mad Max: Fury Road แมดแม็กซ์ ถนนโลกันตร์ (2015) 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/Mad_Max_Fury_Road_2015_4K/Mad_Max_Fury_Road_2015_4K_2160p_ATMOS_HDR.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20211112122320batman-year-one-52b197e1e556a.jpg",Batman: Year One ศึกอัศวินแบทแมน ปี 1 (2011) 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20211112122320batman-year-one-52b197e1e556a.jpg" group-title="4K",,Batman: Year One ศึกอัศวินแบทแมน ปี 1 (2011) 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/Batman_Year_One_2011_4K/Batman_Year_One_2011_4K_2160p_DTS_HD_HDR.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20210822083057reminiscence-60cbac3520471.jpg",Reminiscence เรมินิสเซนซ์ ล้วงอดีตรำลึกเวลา (2021) 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20210822083057reminiscence-60cbac3520471.jpg" group-title="4K",,Reminiscence เรมินิสเซนซ์ ล้วงอดีตรำลึกเวลา (2021) 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/Reminiscence_2021_4K/Reminiscence_2021_4K_2160p_ATMOS_HDR.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20211101173603no-one-gets-out-alive-poster.jpg",No One Gets Out Alive ห้องเช่าขังตาย (2021) 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20211101173603no-one-gets-out-alive-poster.jpg" group-title="4K",,No One Gets Out Alive ห้องเช่าขังตาย (2021) 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/No_One_Gets_Out_Alive_2021_4K/No_One_Gets_Out_Alive_2021_4K_2160p_SDR.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20211101150327Night_Teeth-237174380-large.jpg",Night Teeth เขี้ยวราตรี (2021) 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20211101150327Night_Teeth-237174380-large.jpg" group-title="4K",,Night Teeth เขี้ยวราตรี (2021) 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/Night_Teeth_2021_4K/Night_Teeth_2021_4K_2160p_SDR.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20211101144729live-by-night-59256a9c6ff76.jpg",Live by Night ลีฟ บาย ไนท์ (2016) 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20211101144729live-by-night-59256a9c6ff76.jpg" group-title="4K",,Live by Night ลีฟ บาย ไนท์ (2016) 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/Live_by_Night_2016_4K/Live_by_Night_2016_4K_2160p_DTS_HD_SDR.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20211105181533bios-615472cd217d1.jpg",Finch (2021) บรรยายไทย 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20211105181533bios-615472cd217d1.jpg" group-title="4K",,Finch (2021) บรรยายไทย 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/Finch_2021_4K/Finch_2021_4K_2160p_HDR_ST.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20210502105338shadow-in-the-cloud-5fefae8964219.jpg",Shadow in the Cloud ประจัญบาน อสูรเวหา (2020) 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20210502105338shadow-in-the-cloud-5fefae8964219.jpg" group-title="4K",,Shadow in the Cloud ประจัญบาน อสูรเวหา (2020) 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/Shadow_in_the_Cloud_2020_4K/Shadow_in_the_Cloud_2020_4K_2160p_DTS_HD_HDR.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20211006084210untitled-m-night-shyamalan-2021-thriller-60e5671ac0cc1.jpg",Old โอลด์ (2021) 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20211006084210untitled-m-night-shyamalan-2021-thriller-60e5671ac0cc1.jpg" group-title="4K",,Old โอลด์ (2021) 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/Old_2021_4K/Old_2021_4K_2160p_ATMOS_HDR.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20211028101656underworld-545d75ec15629.jpg",Underworld สงครามโค่นพันธุ์อสูร (2003) 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20211028101656underworld-545d75ec15629.jpg" group-title="4K",,Underworld สงครามโค่นพันธุ์อสูร (2003) 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/Underworld_2003_4K/Underworld_2003_4K_2160p_4K_ATMOS_HDR.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20211028100955underworld-evolution-583ec83be493f.jpg",Underworld: Evolution สงครามโค่นพันธุ์อสูร 2: อีโวลูชั่น (2006) 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20211028100955underworld-evolution-583ec83be493f.jpg" group-title="4K",,Underworld: Evolution สงครามโค่นพันธุ์อสูร 2: อีโวลูชั่น (2006) 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/Underworld_Evolution_2006_4K/Underworld_Evolution_2006_4K_2160p_ATMOS_HDR.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20211028100107underworld-rise-of-the-lycans-523466c43f8a5.jpg",Underworld: Rise of the Lycans สงครามโค่นพันธุ์อสูร 3: ปลดแอกจอมทัพอสูร (2009) 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20211028100107underworld-rise-of-the-lycans-523466c43f8a5.jpg" group-title="4K",,Underworld: Rise of the Lycans สงครามโค่นพันธุ์อสูร 3: ปลดแอกจอมทัพอสูร (2009) 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/Underworld_Rise_of_the_Lycans_2009_4K/Underworld_Rise_of_the_Lycans_2009_4K_2160p_ATMOS_HDR.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20211028095054underworld-awakening-5219bd4a001ec.jpg",Underworld: Awakening สงครามโค่นพันธุ์อสูร 4: กำเนิดใหม่ราชินีแวมไพร์ (2012) 4K 
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20211028095054underworld-awakening-5219bd4a001ec.jpg" group-title="4K",,Underworld: Awakening สงครามโค่นพันธุ์อสูร 4: กำเนิดใหม่ราชินีแวมไพร์ (2012) 4K 
 https://b1.inwstream.com:1936/FW_Blu-Ray/Underworld_Awakening_2012_4K/Underworld_Awakening_2012_4K_2160p_ATMOS_HDR.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20200114201940underworld-next-generation-5812304f15520.jpg",Underworld: Blood Wars มหาสงครามล้างพันธุ์อสูร (2016) 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20200114201940underworld-next-generation-5812304f15520.jpg" group-title="4K",,Underworld: Blood Wars มหาสงครามล้างพันธุ์อสูร (2016) 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/Underworld_Blood_Wars_2016_4K/Underworld_Blood_Wars_2016_4K_2160p_ATMOS_HDR_1.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20210821094124stillwater-611b8e47131dd.jpg",Stillwater (2021) บรรยายไทย 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20210821094124stillwater-611b8e47131dd.jpg" group-title="4K",,Stillwater (2021) บรรยายไทย 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/Stillwater_2021_4K/Stillwater_2021_4K_2160p_HDR_ST.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20211028073353the-running-man-53f0e2faaab53.jpg",The Running Man คนเหล็กฝ่าเกมโหด (1987) 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20211028073353the-running-man-53f0e2faaab53.jpg" group-title="4K",,The Running Man คนเหล็กฝ่าเกมโหด (1987) 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/The_Running_Man_1987_4K/The_Running_Man_1987_4K_2160p__DTS_HD_HDR.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20211027113644suburbicon-5a67aa7829555.jpg",Suburbicon พ่อบ้านซ่าส์ บ้าดีเดือด (2017) 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20211027113644suburbicon-5a67aa7829555.jpg" group-title="4K",,Suburbicon พ่อบ้านซ่าส์ บ้าดีเดือด (2017) 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/Suburbicon_2017_4K/Suburbicon_2017_4K_2160p_HDR.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20211027102210xbKotOAJ73wqC13ZvaRvDeB5Jba.jpg",Nobody's Fool สองสาวซ่า แสบไม่จำกัด (2018) 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20211027102210xbKotOAJ73wqC13ZvaRvDeB5Jba.jpg" group-title="4K",,Nobody's Fool สองสาวซ่า แสบไม่จำกัด (2018) 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/Nobody_s_Fool_2018_4K/Nobody_s_Fool_2018_4K_2160p_HDR.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/202101250843010_EJBdoJxMi0nIYp06.jpg",Songbird โควิด 23 ไวรัสล้างโลก (2020) 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/202101250843010_EJBdoJxMi0nIYp06.jpg" group-title="4K",,Songbird โควิด 23 ไวรัสล้างโลก (2020) 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/Songbird_2020_4K/Songbird_2020_4K_2160p_HDR.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20211021095158first-reformed-5c541d1d5a2dc.jpg",First Reformed ศรัทธา...โลกาวินาศ (2017) บรรยายไทย 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20211021095158first-reformed-5c541d1d5a2dc.jpg" group-title="4K",,First Reformed ศรัทธา...โลกาวินาศ (2017) บรรยายไทย 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/First_Reformed_2017_4K/First_Reformed_2017_4K_2160p_SDR_ST.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20211020152146p20530519_p_v13_aa.jpg",Honey Girls ฮันนี่ เกิร์ลส์ วงลับหัวใจจี๊ดจ๊าด (2021) บรรยายไทย 4K 
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20211020152146p20530519_p_v13_aa.jpg" group-title="4K",,Honey Girls ฮันนี่ เกิร์ลส์ วงลับหัวใจจี๊ดจ๊าด (2021) บรรยายไทย 4K 
 https://b1.inwstream.com:1936/FW_Blu-Ray/Honey_Girls_2021_4K/Honey_Girls_2021_4K_2160p_SDR_ST.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20211020140150TNyuX3pzhaf6JH9s.jpg",The Starling เดอะ สตาร์ลิง (2021) NETFLIX บรรยายไทย 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20211020140150TNyuX3pzhaf6JH9s.jpg" group-title="4K",,The Starling เดอะ สตาร์ลิง (2021) NETFLIX บรรยายไทย 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/The_Starling_2021_4K/The_Starling_2021_4K_2160p_SDR_ST.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20180124075349the-purge-528644adaad61.jpg",The Purge คืนอำมหิต (2013) 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20180124075349the-purge-528644adaad61.jpg" group-title="4K",,The Purge คืนอำมหิต (2013) 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/The-Purge-2013-4K/The-Purge-2013-4K-2160p-DTS-HD.mp4?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20180124075108the-purge-anarchy-53bee5103c52c.jpg",The Purge: Anarchy คืนอำมหิต: คืนล่าฆ่าไม่ผิด (2014) 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20180124075108the-purge-anarchy-53bee5103c52c.jpg" group-title="4K",,The Purge: Anarchy คืนอำมหิต: คืนล่าฆ่าไม่ผิด (2014) 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/The-Purge-Anarchy-2014-4K/The-Purge-Anarchy-2014-4K-2160p-DTS-HD.mp4?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20180123212414the-purge-3-577e44c149264.jpg",The Purge: Election Year คืนอำมหิต: ปีเลือกตั้งโหด (2016) 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20180123212414the-purge-3-577e44c149264.jpg" group-title="4K",,The Purge: Election Year คืนอำมหิต: ปีเลือกตั้งโหด (2016) 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/The-Purge-Election-Year-2016-4K/The-Purge-Election-Year-2016-4K-2160p-DTS-HD.mp4?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20181106152036first-purge_dvd.jpg",The First Purge ปฐมบทคืนอำมหิต (2018) 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20181106152036first-purge_dvd.jpg" group-title="4K",,The First Purge ปฐมบทคืนอำมหิต (2018) 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/The-First-Purge-2018-4K/The-First-Purge-2018-4K-2160p-DTS-HD.mp4?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20210719083652the-forever-purge-60d510aa3d3bc.jpg",The Forever Purge คืนอำมหิต: อำมหิตไม่หยุดฆ่า (2021) 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20210719083652the-forever-purge-60d510aa3d3bc.jpg" group-title="4K",,The Forever Purge คืนอำมหิต: อำมหิตไม่หยุดฆ่า (2021) 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/The_Forever_Purge_2021_4K/The_Forever_Purge_2021_4K_2160p_ATMOS_HDR.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20200604125508Dont%20Breathe%20%E0%B8%A5%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A2%E0%B9%83%E0%B8%88%E0%B8%AA%E0%B8%B1%E0%B9%88%E0%B8%87%E0%B8%95%E0%B8%B2%E0%B8%A2%20(2016).jpg",Don't Breathe ลมหายใจสั่งตาย (2016) Blu-ray
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20200604125508Dont%20Breathe%20%E0%B8%A5%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A2%E0%B9%83%E0%B8%88%E0%B8%AA%E0%B8%B1%E0%B9%88%E0%B8%87%E0%B8%95%E0%B8%B2%E0%B8%A2%20(2016).jpg" group-title="4K",,Don't Breathe ลมหายใจสั่งตาย (2016) Blu-ray
 https://b1.inwstream.com:1936/FW_Blu-Ray/Don-t-Breathe-2016/Don-t-Breathe-2016-th-en-1080p.mp4?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20210904102357dont-breathe-2-60f28d82b7dc3.jpg",Don't Breathe 2 ลมหายใจสั่งตาย 2 (2021) 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20210904102357dont-breathe-2-60f28d82b7dc3.jpg" group-title="4K",,Don't Breathe 2 ลมหายใจสั่งตาย 2 (2021) 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/Don_t_Breathe_2_2021_4K/Don_t_Breathe_2_2021_4K_2160p_ATMOS_HDR.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20180930114759the-fast-and-the-furious-52472ce19223c.jpg",The Fast and the Furious เร็ว..แรงทะลุนรก (2001) 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20180930114759the-fast-and-the-furious-52472ce19223c.jpg" group-title="4K",,The Fast and the Furious เร็ว..แรงทะลุนรก (2001) 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/The_Fast_and_the_Furious_2001_4K/The_Fast_and_the_Furious_2001_4K_2160p_DTS_X_HDR.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/201810040658282-fast-2-furious-55526748de26d.jpg",2 Fast 2 Furious เร็วคูณ 2 ดับเบิ้ลแรงท้านรก (2003) 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/201810040658282-fast-2-furious-55526748de26d.jpg" group-title="4K",,2 Fast 2 Furious เร็วคูณ 2 ดับเบิ้ลแรงท้านรก (2003) 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/2_Fast_2_Furious_2003_4K/2_Fast_2_Furious_2003_4K_2160p_DTS_X_HDR.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20181002112420the-fast-and-the-furious-tokyo-drift-52473027370ad.jpg",The Fast and the Furious: Tokyo Drift เร็ว..แรงทะลุนรก ซิ่งแหกพิกัดโตเกียว (2006) 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20181002112420the-fast-and-the-furious-tokyo-drift-52473027370ad.jpg" group-title="4K",,The Fast and the Furious: Tokyo Drift เร็ว..แรงทะลุนรก ซิ่งแหกพิกัดโตเกียว (2006) 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/The_Fast_and_the_Furious_Tokyo_Drift_2006_4K/The_Fast_and_the_Furious_Tokyo_Drift_2006_4K_2160p_DTS_X_HDR.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20190621151602fast--furious-535a328a66751.jpg",Fast & Furious 4 เร็ว..แรงทะลุนรก 4: ยกทีมซิ่ง แรงทะลุไมล์ (2009) 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20190621151602fast--furious-535a328a66751.jpg" group-title="4K",,Fast & Furious 4 เร็ว..แรงทะลุนรก 4: ยกทีมซิ่ง แรงทะลุไมล์ (2009) 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/Fast_and_Furious_2009_4K/Fast_and_Furious_2009_4K_2160p_DTS_X_HDR.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20190608210228fast-five-56780e1394abc.jpg",Fast Five เร็ว..แรงทะลุนรก 5 (2011) 4K HDR
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20190608210228fast-five-56780e1394abc.jpg" group-title="4K",,Fast Five เร็ว..แรงทะลุนรก 5 (2011) 4K HDR
 https://b1.inwstream.com:1936/FW_Blu-Ray/Fast_Five_2011_4K/Fast_Five_2011_EXTENDED_4K_2160p_DTS_X_HDR.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20171216073136the-fast-and-the-furious-6-55719b211b698.jpg",Fast & Furious 6 เร็ว..แรงทะลุนรก 6 (2013) 4K 
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20171216073136the-fast-and-the-furious-6-55719b211b698.jpg" group-title="4K",,Fast & Furious 6 เร็ว..แรงทะลุนรก 6 (2013) 4K 
 https://b1.inwstream.com:1936/FW_Blu-Ray/Fast_and_Furious_6_2013_4K/Fast_and_Furious_6_2013_EXTENDED_4K_2160p_DTS_X_HDR.mkv?.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.boomerangshop.com/web/files/product/201909/01585771-20190905142615-0.jpg,Fast & Furious 7 เร็ว..แรงทะลุนรก 7 (2015) 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/Fast-and-Furious-2001-2015/Fast-and-Furious-7-2015-Extended-th-en-1080p.mp4?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20171010070412the-fate-of-the-furious-58cd6e604bec6.jpg",The Fate of the Furious (Fast and Furious 8) เร็ว...แรงทะลุนรก 8 (2017) 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20171010070412the-fate-of-the-furious-58cd6e604bec6.jpg" group-title="4K",,The Fate of the Furious (Fast and Furious 8) เร็ว...แรงทะลุนรก 8 (2017) 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/The_Fate_of_the_Furious_2017_4K/The_Fate_of_the_Furious_2017_4K_2160p_DTS_X_HDR.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20191113091359fast--furious-presents-hobbs--shaw-5db74c37ada59.jpg",Fast & Furious Presents: Hobbs & Shaw เร็ว...แรงทะลุนรก ฮ็อบส์ & ชอว์ (2019) 4K 
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20191113091359fast--furious-presents-hobbs--shaw-5db74c37ada59.jpg" group-title="4K",,Fast & Furious Presents: Hobbs & Shaw เร็ว...แรงทะลุนรก ฮ็อบส์ & ชอว์ (2019) 4K 
 https://b1.inwstream.com:1936/FW_Blu-Ray/Fast_and_Furious_Presents_Hobbs_and_Shaw_2019_4K/Fast_and_Furious_Presents_Hobbs_and_Shaw_2019_4K_2610p_ATMOS_HDR.mkv?.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20210730080803fast--furious-9-5e3716fddb6ba.jpg",Fast and Furious F9 The Fast Saga เร็ว..แรงทะลุนรก 9 (2021) 4K
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20210730080803fast--furious-9-5e3716fddb6ba.jpg" group-title="4K",,Fast and Furious F9 The Fast Saga เร็ว..แรงทะลุนรก 9 (2021) 4K
 https://b1.inwstream.com:1936/FW_Blu-Ray/Fast_and_Furious_F9_The_Fast_Saga_2021_4K/Fast_and_Furious_F9_The_Fast_Saga_2021_4K_2160p_ATMOS_HDR.mkv?.m3u8
