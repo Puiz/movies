@@ -1,5 +1,29 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20231225123302man-of-steel-5617e3ab3c53c.jpg" group-title="4K",Man of Steel บุรุษเหล็ก ซูเปอร์แมน (2013) 4K HDR ATMOS
+https://b1.inwstream.com:1936/FW_UHD/Man_of_Steel_2013_4K/Man_of_Steel_2013_4K_2160p_ATMOS_HDR.mkv?.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20240101124136a-good-day-to-die-hard-53bac6ecbc339.jpg" group-title="4K",A Good Day to Die Hard ดาย ฮาร์ด 5 วันดีมหาวินาศ คนอึดตายยาก (2013) 4K HDR THEATRICAL Version
+https://b1.inwstream.com:1936/FW_UHD/A_Good_Day_to_Die_Hard_2013_4K/A_Good_Day_to_Die_Hard_2013_4K_2160p_DTS_HD_HDR_THEATRICAL.mkv?.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20230630100412one-piece-film-red-63299f215e4c5.jpg" group-title="4K",One Piece Film: Red วันพีซ ฟิล์ม เรด (2022) 4K HDR ATMOS
+https://b1.inwstream.com:1936/FW_UHD/One_Piece_Film_Red_2022_4K/One_Piece_Film_Red_2022_4K_2160p_ATMOS_HDR.mkv?.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20231114093429the-creator-65106db60573ef.jpg" group-title="4K",The Creator เดอะ ครีเอเตอร์ (2023) 4K HDR ATMOS
+https://b1.inwstream.com:1936/FW_UHD/The_Creator_2023_4K/The_Creator_2023_4K_2160p_ATMOS_HDR.mkv?.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20231230144529ong-bak-53e72fb017dac.jpg" group-title="4K",องค์บาก Ong-Bak: The Thai Warrior (2003) 4K Ultra HD
+https://b1.inwstream.com:1936/FW_UHD/Ong_Bak_2003_4K/Ong_Bak_2003_4K_2160p_DTS_HD_SDR_AI_ST.mkv?.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20230817091515titanic-521a6089e0633.jpg" group-title="4K",Titanic ไททานิค (1997) 4K HDR ATMOS
+https://b1.inwstream.com:1936/FW_UHD/Titanic_1997_4K/Titanic_1997_4K_2160p_ATMOS_HDR.mkv?.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20231207145539apocalypto-5225459314a39a.jpg" group-title="4K",Apocalypto ปิดตำนานอารยชน (2006) 4K HDR
+https://b1.inwstream.com:1936/FW_UHD/Apocalypto_2006_4K/Apocalypto_2006_4K_2160p_PCM_HDR_AI.mkv?.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20231202090929images.jpg" group-title="4K",Candy Cane Lane แคนดี้ เคน เลน: คุณพ่อดวงจู๋ ขอกู้วิกฤติคริสต์มาส (2023) 4K HDR
+https://b1.inwstream.com:1936/FW_UHD/Candy_Cane_Lane_2023_4K/Candy_Cane_Lane_2023_4K_2160p_HDR.mkv?.m3u8
+
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2019/11/18/gVQF7y.jpg" group-title="4K" group-name="The Accountant", The Accountant (2016) : อัจฉริยะคนบัญชีเพชฌฆาต
 http://b1.inwstream.com:1935/FW_Blu-Ray/The_Accountant_2016_4K/The_Accountant_2016_4K_2160p_DTS_HD_HDR.mkv
 
@@ -10,7 +34,7 @@ http:/b1.inwstream.com:1936/FW_Blu-Ray/Venom_2018_4K/Venom_2018_4K_2160p_ATMOS_H
 http:/b1.inwstream.com:1936/FW_Blu-Ray/Lucy-2014-4K/Lucy-2014-TH-EN-2160p-4K.mp4?.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20231010093413mission-impossible---dead-reckoning-part-one-647a6c6f82a39.jpeg" Mission: Impossible - Dead Reckoning Part One มิชชั่น:อิมพอสซิเบิ้ล ล่าพิกัดมรณะ ตอนที่หนึ่ง (2023) 4K HDR
-#EXTVLCOPT:http-user-agent=PrimeTimeLauncher/1.0.2 (Linux;Android 10) ExoPlayerLib/1.5.11
+
 https://b1.inwstream.com:1936/FW_UHD/Mission_Impossible_Dead_Reckoning_Part_One_2023_4K/Mission_Impossible_Dead_Reckoning_Part_One_2023_4K_2160p_ATMOS_HDR.mkv?.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20231006205434pFue9TLZVdXjGiZ8cOpDjllhbKk.jpg" group-title="4K", Haunted Mansion บ้านชวนเฮี้ยนผีชวนฮา (2023)
@@ -59,15 +83,15 @@ http://b1.inwstream.com:1935/FW_Blu-Ray/Spider_Man_Far_from_Home_2019_4K/Spider_
 http://b1.inwstream.com:1935/FW_Blu-Ray/Spider_Man_No_Way_Home_2021_4K/Spider_Man_No_Way_Home_2021_4K_2160p_ATMOS_HDR.mkv?.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/201409072330021.jpg" group-title="4K",,The Amazing Spider-Man ดิ อะเมซิ่ง สไปเดอร์แมน (2012)
-#EXTVLCOPT:http-user-agent=PrimeTimeLauncher/1.0.2 (Linux;Android 10) ExoPlayerLib/1.5.11
+
 https://b1.inwstream.com:1936/FW_Blu-Ray/The_Amazing_Spider_Man_2012_4K/The_Amazing_Spider_Man_2012_4K_2160p_ATMOS_HDR.mkv?.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20200428155713The%20Amazing%20Spider-Man%202%20%E0%B8%94%E0%B8%B4%20%E0%B8%AD%E0%B8%B0%E0%B9%80%E0%B8%A1%E0%B8%8B%E0%B8%B4%E0%B9%88%E0%B8%87%20%E0%B8%AA%E0%B9%84%E0%B8%9B%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%A3%E0%B9%8C-%E0%B9%81%E0%B8%A1%E0%B8%99%202%20%E0%B8%9C%E0%B8%87%E0%B8%B2%E0%B8%94%E0%B8%AD%E0%B8%AA%E0%B8%B9%E0%B8%A3%E0%B8%81%E0%B8%B2%E0%B8%A2%E0%B8%AA%E0%B8%B2%E0%B8%A2%E0%B8%9F%E0%B9%89%E0%B8%B2%20(2014).jpg" group-title="4K",,The Amazing Spider-Man 2 ดิ อะเมซิ่ง สไปเดอร์-แมน 2: ผงาดอสูรกายสายฟ้า (2014) 
-#EXTVLCOPT:http-user-agent=PrimeTimeLauncher/1.0.2 (Linux;Android 10) ExoPlayerLib/1.5.11
+
 https://b1.inwstream.com:1936/FW_Blu-Ray/The_Amazing_Spider_Man_2_2014_4K/The_Amazing_Spider_Man_2_2014_4K_2160p_ATMOS_HDR.mkv?.m3u8
 
 #EXTINF:-1 tvg-logo="",รอแก้ Spider Man 3: ไอ้แมงมุม (2007)
-#EXTVLCOPT:http-user-agent=PrimeTimeLauncher/1.0.2 (Linux;Android 10) ExoPlayerLib/1.5.11
+
 
 
 #EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20200330214132Spider%20Man%202%20%E0%B9%84%E0%B8%AD%E0%B9%89%E0%B9%81%E0%B8%A1%E0%B8%87%E0%B8%A1%E0%B8%B8%E0%B8%A1%20(2004).jpg" group-title="4K",,Spider Man 2: ไอ้แมงมุม (2004)
@@ -77,154 +101,154 @@ http://b1.inwstream.com:1935/FW_Blu-Ray/Spider_Man_2_2004_4K/Spider_Man_2_2004_4
 http://b1.inwstream.com:1935/FW_Blu-Ray/Spider_Man_2002_4K/Spider_Man_2002_4K_2160p_ATMOS_HDR.mkv?.m3u8
 
 #EXTINF:-1 tvg-logo="https://img1.hotstarext.com/image/upload/f_auto,q_90,w_3840/sources/r1/cms/prod/7255/1557255-v-59d4c87717c4",Guardians of the Galaxy Vol 3 (2023) รวมพันธุ์นักสู้พิทักษ์จักรวาล 3
-#EXTVLCOPT:http-user-agent=PrimeTimeLauncher/1.0.2 (Linux;Android 10) ExoPlayerLib/1.5.11
+
 https://b1.inwstream.com:1936/FW_UHD/Guardians_of_the_Galaxy_Vol_3_2023_4K/Guardians_of_the_Galaxy_Vol_3_2023_4K_2160p_ATMOS_HDR_IMAX.mkv?.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20170714214806qKfrH1ur0ncuHPwGfU9GFKzidet.jpg" group-title="4K",,Rocky ร็อคกี้ (1976)
-#EXTVLCOPT:http-user-agent=PrimeTimeLauncher/1.0.2 (Linux;Android 10) ExoPlayerLib/1.5.11
+
 https://b1.inwstream.com:1936/FW_Blu-Ray/Rocky_1976_4K/Rocky_1976_4K_2160p_HDR.mkv?.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GzlP8f3.jpg" group-title="4K",,Fast X (2023) - เร็ว..แรงทะลุนรก 10
-#EXTVLCOPT:http-user-agent=PrimeTimeLauncher/1.0.2 (Linux;Android 10) ExoPlayerLib/1.5.11
+
 https://b1.inwstream.com:1936/FW_UHD/Fast_X_2023_4K/Fast_X_2023_4K_2160p_ATMOS_HDR.mkv?.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20200419181547Goosebumps%20%E0%B8%84%E0%B8%B7%E0%B8%99%E0%B8%AD%E0%B8%B1%E0%B8%A8%E0%B8%88%E0%B8%A3%E0%B8%A3%E0%B8%A2%E0%B9%8C%E0%B8%82%E0%B8%99%E0%B8%AB%E0%B8%B1%E0%B8%A7%E0%B8%A5%E0%B8%B8%E0%B8%81%20(2015).jpg" group-title="4K",,Goosebumps คืนอัศจรรย์ขนหัวลุก (2015)
-#EXTVLCOPT:http-user-agent=PrimeTimeLauncher/1.0.2 (Linux;Android 10) ExoPlayerLib/1.5.11
+
 https://b1.inwstream.com:1936/FW_Blu-Ray/Goosebumps_2015_4K/Goosebumps_2015_4K_2160p_HDR.mkv?.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20190521173554goosebumps-2-5c0e6d8f87514.jpg" group-title="4K",,Goosebumps 2: Haunted Halloween คืนอัศจรรย์ขนหัวลุก 2 หุ่นฝังแค้น (2018)
-#EXTVLCOPT:http-user-agent=PrimeTimeLauncher/1.0.2 (Linux;Android 10) ExoPlayerLib/1.5.11
+
 https://b1.inwstream.com:1936/FW_Blu-Ray/Goosebumps_2_Haunted_Halloween_2018_4K/Goosebumps_2_Haunted_Halloween_2018_4K_2160p_ATMOS_HDR.mkv?.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20200423143343300%20%E0%B8%82%E0%B8%B8%E0%B8%99%E0%B8%A8%E0%B8%B6%E0%B8%81%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B8%B8%E0%B9%8C%E0%B8%AA%E0%B8%B0%E0%B8%97%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B9%82%E0%B8%A5%E0%B8%81%20(2006).jpg" group-title="4K",,300 ขุนศึกพันธุ์สะท้านโลก (2006)
-#EXTVLCOPT:http-user-agent=PrimeTimeLauncher/1.0.2 (Linux;Android 10) ExoPlayerLib/1.5.11
+
 https://b1.inwstream.com:1936/FW_Blu-Ray/300_2006_4K/300_2006_4K_2160p_ATMOS_HDR.mkv?.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/202304102058503GrRgt6CiLIUXUtoktcv1g2iwT5.jpg" group-title="4K",,Shazam! Fury of the Gods ชาแซม! จุดเดือดเทพเจ้า (2023)
-#EXTVLCOPT:http-user-agent=PrimeTimeLauncher/1.0.2 (Linux;Android 10) ExoPlayerLib/1.5.11
+
 https://b1.inwstream.com:1936/FW_UHD/Shazam_Fury_of_the_Gods_2023_4K/Shazam_Fury_of_the_Gods_2023_4K_2160p_HDR.mkv?.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20200430143552Jumanji%20%E0%B8%88%E0%B8%B9%E0%B9%81%E0%B8%A1%E0%B8%99%E0%B8%88%E0%B8%B5%E0%B9%89%20%E0%B9%80%E0%B8%81%E0%B8%A1%E0%B8%94%E0%B8%B9%E0%B8%94%E0%B9%82%E0%B8%A5%E0%B8%81%E0%B8%A1%E0%B8%AB%E0%B8%B1%E0%B8%A8%E0%B8%88%E0%B8%A3%E0%B8%A3%E0%B8%A2%E0%B9%8C%20(1995).jpg" group-title="4K",,Jumanji จูแมนจี้ เกมดูดโลกมหัศจรรย์ (1995)
-#EXTVLCOPT:http-user-agent=PrimeTimeLauncher/1.0.2 (Linux;Android 10) ExoPlayerLib/1.5.11
+
 https://b1.inwstream.com:1936/FW_Blu-Ray/Jumanji_1995_4K/Jumanji_1995_4K_2160p_ATMOS_HDR.mkv?.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20200309142759jumanji-welcome-to-the-jungle-sequel-5dab15048fa2a%20(1).jpg" group-title="4K",,Jumanji: The Next Level เกมดูดโลก ตะลุยด่านมหัศจรรย์ (2019)
-#EXTVLCOPT:http-user-agent=PrimeTimeLauncher/1.0.2 (Linux;Android 10) ExoPlayerLib/1.5.11
+
 https://b1.inwstream.com:1936/FW_Blu-Ray/Jumanji_The_Next_Level_2019_4K/Jumanji_The_Next_Level_2019_4K_2160p_SDR.mkv?.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20180313160301jumanji-welcome-to-the-jungle-5aa49c7577ae2.jpg" group-title="4K",,Jumanji: Welcome to the Jungle เกมดูดโลก บุกป่ามหัศจรรย์ (2017)
-#EXTVLCOPT:http-user-agent=PrimeTimeLauncher/1.0.2 (Linux;Android 10) ExoPlayerLib/1.5.11
+
 https://b1.inwstream.com:1936/FW_Blu-Ray/Jumanji_Welcome_to_the_Jungle_2017_4K/Jumanji_Welcome_to_the_Jungle_2017_4K_2160p_ATMOS_HDR.mkv?.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20170719202642MV5BMjQ1NjM3MTUxNV5BMl5BanBnXkFtZTgwMDc5MTY5OTE@._V1_SY1000_CR0,0,647,1000_AL_.jpg" group-title="4K",,Hacksaw Ridge วีรบุรุษสมรภูมิปาฏิหาริย์ (2016)
-#EXTVLCOPT:http-user-agent=PrimeTimeLauncher/1.0.2 (Linux;Android 10) ExoPlayerLib/1.5.11
+
 https://b1.inwstream.com:1936/FW_Blu-Ray/Hacksaw_Ridge_2016_4K/Hacksaw_Ridge_2016_4K_2160p_ATMOS_HDR.mkv?.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20200408160530John%20Wick%20%E0%B8%88%E0%B8%AD%E0%B8%AB%E0%B9%8C%E0%B8%99%E0%B8%A7%E0%B8%B4%E0%B8%84%20%E0%B9%81%E0%B8%A3%E0%B8%87%E0%B8%81%E0%B8%A7%E0%B9%88%E0%B8%B2%E0%B8%99%E0%B8%A3%E0%B8%81%20(2014).jpg" group-title="4K",,John Wick จอห์นวิค แรงกว่านรก (2014)
-#EXTVLCOPT:http-user-agent=PrimeTimeLauncher/1.0.2 (Linux;Android 10) ExoPlayerLib/1.5.11
+
 https://b1.inwstream.com:1936/FW_Blu-Ray/John_Wick_2014_4K/John_Wick_2014_4K_2160p_ATMOS_HDR.mkv
 
 #EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20170613222850john-wick-chapter-2-dvd-cover.jpg" group-title="4K",,John Wick: Chapter 2 จอห์น วิค แรงกว่านรก 2 (2017)
-#EXTVLCOPT:http-user-agent=PrimeTimeLauncher/1.0.2 (Linux;Android 10) ExoPlayerLib/1.5.11
+
 https://b1.inwstream.com:1936/FW_Blu-Ray/John_Wick_Chapter_2_2017_4K/John_Wick_Chapter_2_2017_4K_2160p_ATMOS_HDR.mkv
 
 #EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20190912063329john-wick-chapter-3--parabellum-5d640cbfa6ef8.jpg" group-title="4K",,John Wick: Chapter 3 - Parabellum จอห์น วิค แรงกว่านรก 3 (2019)
-#EXTVLCOPT:http-user-agent=PrimeTimeLauncher/1.0.2 (Linux;Android 10) ExoPlayerLib/1.5.11
+
 https://b1.inwstream.com:1936/FW_Blu-Ray/John_Wick_Chapter_3_Parabellum_2019_4K/John_Wick_Chapter_3_Parabellum_2019_4K_2160p_ATMOS_HDR.mkv
 
 #EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20190629072927shazam-5c15615784497.jpg" group-title="4K",,Shazam! ชาแซม! (2019)
-#EXTVLCOPT:http-user-agent=PrimeTimeLauncher/1.0.2 (Linux;Android 10) ExoPlayerLib/1.5.11
+
 https://b1.inwstream.com:1936/FW_Blu-Ray/Shazam_2019_4K/Shazam_2019_4K_2160p_ATMOS_HDR.mkv?.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20230328100414avatar-the-way-of-water-636426692150f.jpg" group-title="4K",,Avatar: The Way of Water อวตาร: วิถีแห่งสายน้ำ (2022) 4K HDR (มีเสียงไทยโรง บรรยายไทยแปล)
-#EXTVLCOPT:http-user-agent=PrimeTimeLauncher/1.0.2 (Linux;Android 10) ExoPlayerLib/1.5.11
+
 https://b1.inwstream.com:1936/FW_UHD/Avatar_The_Way_of_Water_2022_4K/Avatar_The_Way_of_Water_2022_4K_2160p_HDR_T.mkv?.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20211125095206venom-let-there-be-carnage-612a79a364e39.jpg" group-title="4K",,Venom: Let There Be Carnage เวน่อม ศึกอสูรแดงเดือด (2021) 4K
-#EXTVLCOPT:http-user-agent=PrimeTimeLauncher/1.0.2 (Linux;Android 10) ExoPlayerLib/1.5.11
+
 https://b1.inwstream.com:1936/FW_Blu-Ray/Venom_Let_There_Be_Carnage_2021_4K/Venom_Let_There_Be_Carnage_2021_4K_2160p_ATMOS_HDR.mkv?.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Wew9hm0.jpg" group-title="4K",,The Meg เม็ก โคตรหลามพันล้านปี (2018)
-#EXTVLCOPT:http-user-agent=PrimeTimeLauncher/1.0.2 (Linux;Android 10) ExoPlayerLib/1.5.11
+
 https://b1.inwstream.com:1936/FW_Blu-Ray/The_Meg_2018_4K/The_Meg_2018_4K_2160p_ATMOS_HDR.mkv
 
 #EXTINF:-1 tvg-logo="https://cdni-hw.bugaboo.tv/dm/sz-md/i/images/2022/10/19/ffqys4aakaahyut_1666164409_6632.jpg" group-title="4K",,Black Panther: Wakanda Forever แบล็ค แพนเธอร์: วาคานด้าจงเจริญ (2022)
-#EXTVLCOPT:http-user-agent=PrimeTimeLauncher/1.0.2 (Linux;Android 10) ExoPlayerLib/1.5.11
+
 https://b1.inwstream.com:1936/FW_Blu-Ray/Black_Panther_Wakanda_Forever_2022_4K/Black_Panther_Wakanda_Forever_2022_4K_2160p_ATMOS_HDR_IMAX.mkv?.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.x10movies4k.com/wp-content/uploads/2022/12/Deadpool-A.jpg" group-title="4K",,Deadpool เดดพูล (2016) พากย์ไทย 4K
-#EXTVLCOPT:http-user-agent=PrimeTimeLauncher/1.0.2 (Linux;Android 10) ExoPlayerLib/1.5.11
+
 https://x10movies4k-publish.obs.ap-southeast-2.myhuaweicloud.com/4k/Deadpool/Deadpool%20%282016%29%202160p.mp4
 
 #EXTINF:-1 tvg-logo="https://www.x10movies4k.com/wp-content/uploads/2022/12/Deadpool-2.jpg" group-title="4K",,Deadpool 2 เดดพูล 2 (2018) พากย์ไทย 4K
-#EXTVLCOPT:http-user-agent=PrimeTimeLauncher/1.0.2 (Linux;Android 10) ExoPlayerLib/1.5.11
+
 https://x10movies4k-publish.obs.ap-southeast-2.myhuaweicloud.com/4k/Deadpool/Deadpool%202%20%282018%29%202160p.mp4
 
 #EXTINF:-1 tvg-logo="https://www.hdmoviesource.com/v/vspfiles/photos/10331-1.jpg" group-title="4K",, Gods of Egypt (2016)-สงครามเทวดา HDR
-#EXTVLCOPT:http-user-agent=PrimeTimeLauncher/1.0.2 (Linux;Android 10) ExoPlayerLib/1.5.11
+
 https://b1.inwstream.com:1936/FW_Blu-Ray/Gods_of_Egypt_2016_4K/Gods_of_Egypt_2016_4K_2160p_HDR.mkv?.m3u8
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/51++vzHMjwL._AC_SY780_.jpg" group-title="4K",,up ปู่ซ่าบ้าพลัง Atmos HDR
-#EXTVLCOPT:http-user-agent=PrimeTimeLauncher/1.0.2 (Linux;Android 10) ExoPlayerLib/1.5.11
+
 https://b1.inwstream.com:1936/FW_Blu-Ray/Up_2009_4K/Up_2009_4K_2160p_ATMOS_HDR.mkv
 
 #EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20200313213802brawl-in-cell-block-99-59e25a12c32cf.jpg" group-title="4K",,Brawl in Cell Block 99 (2017)
-#EXTVLCOPT:http-user-agent=PrimeTimeLauncher/1.0.2 (Linux;Android 10) ExoPlayerLib/1.5.11
+
 https://b1.inwstream.com:1936/FW_Blu-Ray/Brawl_in_Cell_Block_99_2017_4K/Brawl_in_Cell_Block_99_2017_4K_2160p_SDR.mkv
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMWEwNjhkYzYtNjgzYy00YTY2LThjYWYtYzViMGJkZTI4Y2MyXkEyXkFqcGdeQXVyNTM0OTY1OQ@@.jpg" group-title="4K",,ผจญภัยล่าขุมทรัพย์สุดขอบโลก (2022)
-#EXTVLCOPT:http-user-agent=PrimeTimeLauncher/1.0.2 (Linux;Android 10) ExoPlayerLib/1.5.11
+
 https://b1.inwstream.com:1936/FW_Blu-Ray/Uncharted_2022_4K/Uncharted_2022_4K_2160p_ATMOS_HDR.mkv?.m3u8
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYzZkOGUwMzMtMTgyNS00YjFlLTg5NzYtZTE3Y2E5YTA5NWIyXkEyXkFqcGdeQXVyMjkwOTAyMDU@.jpg" group-title="4K",,Black Adam (2022) - แบล็ก อดัม
-#EXTVLCOPT:http-user-agent=PrimeTimeLauncher/1.0.2 (Linux;Android 10) ExoPlayerLib/1.5.11
+
 https://b1.inwstream.com:1936/FW_Blu-Ray/Black_Adam_2022_4K/Black_Adam_2022_4K_2160p_ATMOS_HDR.mkv
 
 #EXTINF:-1 tvg-logo="https://postto.me/217/aob.jpg" group-title="4K",,Minions: The Rise of Gru มินเนี่ยน 2 (2022)
-#EXTVLCOPT:http-user-agent=PrimeTimeLauncher/1.0.2 (Linux;Android 10) ExoPlayerLib/1.5.11
+
 https://b1.inwstream.com:1936/FW_Blu-Ray/Minions_The_Rise_of_Gru_2022_4K/Minions_The_Rise_of_Gru_2022_4K_2160p_ATMOS_HDR.mkv?.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/202209072006452kpJdmtf3o0GrowVjM5AspC4dY2.jpg" group-title="4K",,Thor: Love and Thunder ธอร์: ด้วยรักและอัสนี (2022)
-#EXTVLCOPT:http-user-agent=PrimeTimeLauncher/1.0.2 (Linux;Android 10) ExoPlayerLib/1.5.11
+
 https://b1.inwstream.com:1936/FW_Blu-Ray/Thor_Love_and_Thunder_2022_4K/Thor_Love_and_Thunder_2022_4K_2160p_SDR.mkv?.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220824095957dc-league-of-super-pets-62e542af49488.jpg" group-title="4K",,DC League of Super-Pets ขบวนการซูเปอร์เพ็ทส์ (2022) 4K HDR
-#EXTVLCOPT:http-user-agent=PrimeTimeLauncher/1.0.2 (Linux;Android 10) ExoPlayerLib/1.5.11
+
 https://b1.inwstream.com:1936/FW_Blu-Ray/DC_League_of_Super_Pets_2022_4K/DC_League_of_Super_Pets_2022_4K_2160p_HDR_T.mkv?.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220823094358top-gun-maverick-629cf9e58e5ec.jpg" group-title="4K",,Top Gun: Maverick ท็อปกัน มาเวอริค (2022) IMAX Version 4K HDR
-#EXTVLCOPT:http-user-agent=PrimeTimeLauncher/1.0.2 (Linux;Android 10) ExoPlayerLib/1.5.11
+
 https://b1.inwstream.com:1936/FW_Blu-Ray/Top_Gun_Maverick_2022_4K/Top_Gun_Maverick_2022_4K_2160p_ATMOS_HDR_IMAX.mkv?.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20190722062643top-gun-58dc5e843e290.jpg" group-title="4K",,Top Gun ท็อปกัน ฟ้าเหนือฟ้า (1986)
-#EXTVLCOPT:http-user-agent=PrimeTimeLauncher/1.0.2 (Linux;Android 10) ExoPlayerLib/1.5.11
+
 https://b1.inwstream.com:1936/FW_Blu-Ray/Top_Gun_1986_4K/Top_Gun_1986_4K_2160p_ATMOS_HDR.mkv?.m3u8
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.net/images/M/MV5BMTkxNzI3ODI4Nl5BMl5BanBnXkFtZTgwMjkwMjY4MjE@.jpg" group-title="4K",,American Sniper (2014) อเมริกัน สไนเปอร์ 
-#EXTVLCOPT:http-user-agent=PrimeTimeLauncher/1.0.2 (Linux;Android 10) ExoPlayerLib/1.5.11
+
 https://b1.inwstream.com:1936/FW_Blu-Ray/American_Sniper_2014_4K/American_Sniper_2014_4K_2160p_ATMOS_HDR.mkv?.m3u8
 
 #EXTINF:-1 tvg-logo="https://images4.imagebam.net/94/23/b3/MEBFFDB_o.jpg" group-title="4K",,The Bad Guys (2022) : วายร้ายพันธุ์ดี 
-#EXTVLCOPT:http-user-agent=PrimeTimeLauncher/1.0.2 (Linux;Android 10) ExoPlayerLib/1.5.11
+
 https://b1.inwstream.com:1936/FW_Blu-Ray/The_Bad_Guys_2022_4K/The_Bad_Guys_2022_4K_2160p_ATMOS_HDR.mkv?.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/202206220636589yu8XNq18quSA9vp909CQRo4ksB.jpg" group-title="4K",,Doctor Strange in the Multiverse of Madness IMAX จอมเวทย์มหากาฬ ในมัลติเวิร์สมหาภัย (2022)IMAX
-#EXTVLCOPT:http-user-agent=PrimeTimeLauncher/1.0.2 (Linux;Android 10) ExoPlayerLib/1.5.11
+
 https://b1.inwstream.com:1936/FW_Blu-Ray/Doctor_Strange_in_the_Multiverse_of_Madness_2022_4K/Doctor_Strange_in_the_Multiverse_of_Madness_2022_4K_2160p_ATMOS_HDR_IMAX.mkv?.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/202206220636589yu8XNq18quSA9vp909CQRo4ksB.jpg" group-title="4K",,Doctor Strange in the Multiverse of Madness จอมเวทย์มหากาฬ ในมัลติเวิร์สมหาภัย (2022) บรรยายไทย
 https://b1.inwstream.com:1936/FW_Blu-Ray/Doctor_Strange_in_the_Multiverse_of_Madness_2022_4K/Doctor_Strange_in_the_Multiverse_of_Madness_2022_4K_2160p_SDR_ST.mkv?.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20210721091341gunpowder-milkshake-60ef19c190443.jpg" group-title="4K",,Gunpowder Milkshake นรกเรียกแม่ (2021) 4K
-#EXTVLCOPT:http-user-agent=PrimeTimeLauncher/1.0.2 (Linux;Android 10) ExoPlayerLib/1.5.11
+
 https://b1.inwstream.com:1936/FW_Blu-Ray/Gunpowder_Milkshake_2021_4K/Gunpowder_Milkshake_2021_4K_2160p_ATMOS_HDR_TH2_1.mkv?.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220419113622355-5f7d7edd100c5.jpg" group-title="4K",,The 355 ปฏิบัติการสวยลับ (2022) บรรยายไทยแปล 4K
-#EXTVLCOPT:http-user-agent=PrimeTimeLauncher/1.0.2 (Linux;Android 10) ExoPlayerLib/1.5.11
+
 https://b1.inwstream.com:1936/FW_Blu-Ray/The_355_2022_4K/The_355_2022_4K_2160p_DTS_HD_SDR_T.mkv?.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220419113327ME9G01SL_o.jpg" group-title="4K",,The Batman เดอะ แบทแมน (2022) 4K
-#EXTVLCOPT:http-user-agent=PrimeTimeLauncher/1.0.2 (Linux;Android 10) ExoPlayerLib/1.5.11
+
 https://b1.inwstream.com:1936/FW_Blu-Ray/The_Batman_2022_4K/The_Batman_2022_4K_2160p_ATMOS_HDR.mkv?.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220418110230the-game-changers-61b9b519d1082.jpg" group-title="4K",,The Game Changers เดอะ เกม เชนเจอร์ส (2018) บรรยายไทย 4K
@@ -237,7 +261,7 @@ https://b1.inwstream.com:1936/FW_Blu-Ray/Ordinary_People_1980_4K/Ordinary_People
 https://b1.inwstream.com:1936/FW_Blu-Ray/The_Sadness_2021_4K/The_Sadness_2021_4K_2160p_DTS_HD_SDR_T.mkv?.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220416100212the-little-mermaid-522a944095a57.jpg" group-title="4K",,The Little Mermaid เงือกน้อยผจญภัย (1989) 4K
-#EXTVLCOPT:http-user-agent=PrimeTimeLauncher/1.0.2 (Linux;Android 10) ExoPlayerLib/1.5.11
+
 https://b1.inwstream.com:1936/FW_Blu-Ray/The_Little_Mermaid_1989_4K/The_Little_Mermaid_1989_4K_2160p_DTS_HD_SDR.mkv?.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20220320084712images.jpg" group-title="4K",,Fresh (2022) บรรยายไทยมาสเตอร์ 4K
