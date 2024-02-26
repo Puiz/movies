@@ -2156,29 +2156,6 @@ https://main.77player.xyz/m3u8/d1546a369f1ad9f1a57e8d4b/d1546a369f1ad9f1a57e8d4b
 ####test####
 
 
-#EXTINF:-1 group-title="test " tvg-id="beinsports1thailand.th" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5f3c5240-29cc-11ee-b2f4-e9de482d866e_webp_original.webp", Bein Sports 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://artg.short.gy/keymanutrue.html
-https://artg.short.gy/manutrue.mpd
-
-#EXTINF:-1 group-title="test " tvg-id="beinsports1thailand.th" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5f3c5240-29cc-11ee-b2f4-e9de482d866e_webp_original.webp", Bein Sports 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://artg.short.gy/key nfl true.html
-https://artg.short.gy/nfltrue.mpd
-
-#EXTINF:-1 tvg-id="test" tvg-name="TrueFilmHD2" tvg-logo="https://i.imgur.com/QaVqmK1.png" group-title="test",True Film 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://861f18c2-59b1-45ee-96c4-e06cfd79affa-00-1miebftvohrty.pike.replit.dev/Ch/license/trueflim2.html
-https://2nud.short.gy/truefilm2.mpd
-
-
-#EXTINF:-0 group-title="test" tvg-id="TrueExploreLife.th" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/486c7da0-e599-11ed-b481-1b121c78e74e_webp_original.png", TRUE EXPLIFE
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://861f18c2-59b1-45ee-96c4-e06cfd79affa-00-1miebftvohrty.pike.replit.dev/Ch/license/life.html
-https://2nud.short.gy/truelife.mpd
-http://playtv.my.id/play/life.m3u8
-
-
 #EXTINF:-1 group-title="test " tvg-id="truepremierfootball1.th" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/ba425a00-e966-11ed-be07-cbff4c6d2c94_webp_original.png",True PremierHD 1 TRUE
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://kdcid.stm.trueid.net/drm/widevine?appid=trueid.th&type=live&visitor=mobile&drm=wv3&uid=141666759&did=NGM4NDNmZGQ1ZDY0MGMzOA&sid=c1aec1bfc5&rt=1708971133&ds=86400&tk=ZV3NXY9OPQzUtDOejYpXJjEY0az_RTkO_mqN_7qNPf4&mpass=_48GYodtjvEoAAXz5BZizaY2ZgqmqJInf0GqZTl57gqLOHtq3gVCiJUhRv2bqGEtRnnAlVAusOPA3X2e0sjuhCIgFvz7DVgnYfrrjS4SEUQgIAFdx0fqJ8NJBUagLlNXiwc
