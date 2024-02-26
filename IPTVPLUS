@@ -1,9 +1,4 @@
-#EXTM3U url="https://raw.githubusercontent.com/bestcommt2/iptv/master/fuckidplus.w3u
-
-
------------------------------------------------------------------------------------------------------------------------------------
-###หัวควย###
-หัวควยกูไม่ปิดหลอกแอฟ มึงก็ไอ้เฒ่าตัวหนึ่ง มึงก็เหมือนหมาตที่ชอบเหา ที่ชอบไล่กัดเขาไปทั่ว ดวย
+#EXTM3U url="https://raw.githubusercontent.com/Puiz/movies/main/IPTVPLUS
 
 -----------------------------------------------------------------------------------------------------------------------------------
 ###AFC Asian Cup 2023###
@@ -2184,7 +2179,7 @@ https://2nud.short.gy/truelife.mpd
 http://playtv.my.id/play/life.m3u8
 
 
-#EXTINF:-1 group-title="test " tvg-id="truepremierfootball1.th" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/ba425a00-e966-11ed-be07-cbff4c6d2c94_webp_original.png",True PremierHD 1
+#EXTINF:-1 group-title="test " tvg-id="truepremierfootball1.th" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/ba425a00-e966-11ed-be07-cbff4c6d2c94_webp_original.png",True PremierHD 1 TRUE
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://861f18c2-59b1-45ee-96c4-e06cfd79affa-00-1miebftvohrty.pike.replit.dev/Ch/license/epl1.html
-https://2nud.short.gy/trueepl1.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://kdcid.stm.trueid.net/drm/widevine?appid=trueid.th&type=live&visitor=mobile&drm=wv3&uid=141666759&did=NGM4NDNmZGQ1ZDY0MGMzOA&sid=c1aec1bfc5&rt=1708971133&ds=86400&tk=ZV3NXY9OPQzUtDOejYpXJjEY0az_RTkO_mqN_7qNPf4&mpass=_48GYodtjvEoAAXz5BZizaY2ZgqmqJInf0GqZTl57gqLOHtq3gVCiJUhRv2bqGEtRnnAlVAusOPA3X2e0sjuhCIgFvz7DVgnYfrrjS4SEUQgIAFdx0fqJ8NJBUagLlNXiwc
+https://cdn143.stm.trueid.net/p105drm/ht111_multi_m_auto_wv_tidapp.smil/manifest.mpd?appid=trueid.th&type=live&visitor=mobile&drm=wv3&uid=141666759&did=NGM4NDNmZGQ1ZDY0MGMzOA&sid=c1aec1bfc5&rt=1708971133&ds=86400&tk=ZV3NXY9OPQzUtDOejYpXJjEY0az_RTkO_mqN_7qNPf4
