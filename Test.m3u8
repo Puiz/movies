@@ -1,18 +1,3 @@
-HTTP/1.1 200 OK
-Content-Type: audio/x-mpegurl
-Content-Length: 13347
-Connection: keep-alive
-Date: Fri, 26 Sep 2025 14:10:41 GMT
-x-amz-meta-mtime: 1755137041.522413523
-Last-Modified: Thu, 14 Aug 2025 02:05:31 GMT
-ETag: "f2dd60af9ecf285f80939a8a1faa033a"
-Server: AmazonS3
-X-Cache: Hit from cloudfront
-Via: 1.1 c0cc2e785b665dc13d53b157b5cc10a6.cloudfront.net (CloudFront)
-X-Amz-Cf-Pop: BKK50-P3
-X-Amz-Cf-Id: 45-1-JCxt4NRAkfRVG-Ip3hARJm-6di83eKzkzPwbU9S1_v24C-8Ag==
-Age: 9166390
-
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-MEDIA-SEQUENCE:0
